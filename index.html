@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticias con mirada católica</title>
+<style>
+:root{--bg:#f2f4f7;--card:#fff;--ink:#16213a;--mute:#5b657a;--line:#dde2ea;--gold:#b7852a;--wine:#6d1f35;--soft:#f7f1e3;
+--c-aciprensa:#6d1f35;--c-ewtn:#8a5a14;--c-semana:#c4302b;--c-eltiempo:#0b5aa6;--c-citytv:#e0701a;--c-infobae:#e4572e;--c-rtve:#1f6f5c}
+@media(prefers-color-scheme:dark){:root{--bg:#10131a;--card:#1a1f2b;--ink:#eef1f6;--mute:#a2acc0;--line:#2b3244;--soft:#262318;--gold:#d9a94a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 Georgia,"Times New Roman",serif}
+a{color:inherit}
+.wrap{max-width:1160px;margin:0 auto;padding:0 20px}
+header{background:var(--wine);color:#fff;padding:34px 0 26px;border-bottom:5px solid var(--gold)}
+header h1{margin:0 0 6px;font-size:clamp(28px,5vw,46px);line-height:1.1}
+header p{margin:0;max-width:60ch;opacity:.92;font-family:system-ui,sans-serif;font-size:16px}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:18px 0;font:14px system-ui,sans-serif;color:var(--mute)}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:99px;padding:6px 13px;cursor:pointer;font:600 14px system-ui,sans-serif}
+.chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,a:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;background:var(--c,#888)}
+h2{font-size:26px;margin:38px 0 4px}
+.sub{margin:0 0 16px;color:var(--mute);font:15px system-ui,sans-serif}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column}
+.card img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:var(--line)}
+.ph{aspect-ratio:16/9;background:linear-gradient(135deg,var(--c,#888),var(--ink));display:grid;place-items:center;color:#fff;font:700 20px system-ui,sans-serif;padding:10px;text-align:center}
+.body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:9px;flex:1}
+.meta{font:13px system-ui,sans-serif;color:var(--mute)}
+.card h3{margin:0;font-size:20px;line-height:1.25}
+.card h3 a{text-decoration:none}.card h3 a:hover{text-decoration:underline}
+.sum{margin:0;font-size:16px}
+.faith{background:var(--soft);border-left:4px solid var(--gold);padding:9px 12px;border-radius:0 8px 8px 0;font-size:15px}
+.faith b{display:block;font:700 13px system-ui,sans-serif;color:var(--gold);margin-bottom:2px}
+.faith small{display:block;margin-top:4px;color:var(--mute);font:12px system-ui,sans-serif}
+.go{margin-top:auto;font:600 14px system-ui,sans-serif;text-decoration:none;color:var(--c,var(--ink))}
+.go:hover{text-decoration:underline}
+.hero{display:grid;grid-template-columns:1.3fr 1fr;gap:0}
+.hero .card{grid-column:1/-1;flex-direction:row}
+.hero .card>img,.hero .card>.ph{width:55%;aspect-ratio:auto;min-height:320px;height:100%}
+.hero h3{font-size:clamp(24px,3vw,34px)}
+@media(max-width:760px){.hero .card{flex-direction:column}.hero .card>img,.hero .card>.ph{width:100%;aspect-ratio:16/9;min-height:0}}
+.status{font:14px system-ui,sans-serif;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:40px 0}
+.status li{margin:4px 0}.bad{color:#b3261e}
+.empty{padding:50px 20px;text-align:center;color:var(--mute);font-family:system-ui,sans-serif}
+footer{padding:10px 0 50px;color:var(--mute);font:14px system-ui,sans-serif;max-width:75ch}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<h1>Qué está pasando, explicado con calma</h1>
+<p>Titulares reales de siete medios, cada uno con su enlace. Debajo de algunas noticias verás un principio de la fe católica relacionado con el tema.</p>
+</div></header>
+<main class="wrap">
+<div class="bar"><span id="stamp">Cargando…</span><span id="chips" role="group" aria-label="Filtrar por medio"></span></div>
+<div id="out"></div>
+<div class="status"><b>Estado de cada medio</b><ul id="st"></ul></div>
+<footer>Los títulos, resúmenes e imágenes pertenecen a cada medio y se muestran con enlace a la nota original. Los resúmenes son los que publica el propio medio: esta página no los reescribe. Los recuadros “Mirada católica” son principios generales de la fe elegidos por palabras clave del titular; no afirman nada nuevo sobre la noticia.</footer>
+</main>
+<script>
+// Si alojas esta página fuera de GitHub (por ejemplo en HubSpot), cambia esto por la dirección completa de tu news.json en GitHub Pages:
+// const NEWS_URL='https://TU-USUARIO.github.io/noticias-catolicas/news.json';
+const NEWS_URL='news.json';
+const COL={aciprensa:'var(--c-aciprensa)',ewtn:'var(--c-ewtn)',semana:'var(--c-semana)',eltiempo:'var(--c-eltiempo)',citytv:'var(--c-citytv)',infobae:'var(--c-infobae)',rtve:'var(--c-rtve)'};
+const GROUPS=[['Iglesia','Noticias de la Iglesia y el mundo católico','ACI Prensa y EWTN Noticias.'],['Colombia','Colombia','Semana, El Tiempo y Citytv.'],['Mundo','El mundo','Infobae y TVE.']];
+// Principios generales de la fe (no son datos de la noticia). Se muestran solo si el titular trae la palabra clave.
+const FAITH=[
+ [/\b(guerra|bombarde|ataque|conflicto|violencia|masacre|asesinat|secuestr|terroris)/i,'La paz','“Bienaventurados los que trabajan por la paz” (Mateo 5,9). La Iglesia pide proteger a los inocentes y buscar el diálogo.'],
+ [/\b(migrant|refugiad|desplazad|frontera|deportaci)/i,'El que llega de fuera','“Fui forastero y me acogieron” (Mateo 25,35). La Iglesia enseña a acoger y respetar la dignidad de cada persona.'],
+ [/\b(pobreza|hambre|desempleo|miseria|indigent|vulnerable)/i,'Los más pobres primero','La Iglesia llama a esto “opción preferencial por los pobres”: mirar primero a quien menos tiene.'],
+ [/\b(aborto|eutanasia|suicid|vida humana|embri)/i,'La vida','La Iglesia enseña que toda vida humana tiene dignidad, desde la concepción hasta la muerte natural.'],
+ [/\b(familia|niñ[oa]s?|menores|madre|padre|hijos)\b/i,'La familia','La Iglesia ve en la familia la primera escuela de fe, de cuidado y de amor.'],
+ [/\b(corrupci|soborno|fraude|robo|estafa|desfalco)/i,'Justicia y verdad','“No robarás” (séptimo mandamiento). La Iglesia pide honradez y trabajar por el bien de todos.'],
+ [/\b(gobierno|congreso|president|elecci|senado|ministr|alcald|reforma)/i,'Quienes gobiernan','San Pablo pide orar “por los que están en autoridad” (1 Timoteo 2,1-2). El fin de la política, dice la Iglesia, es el bien común.'],
+ [/\b(lluvia|inundaci|terremoto|sismo|incendio|sequ[ií]a|tormenta|desastre|derrumbe|deslizamiento|emergencia)/i,'Ante una tragedia','La Iglesia invita a rezar por las víctimas y a ayudar con hechos. El papa Francisco llamó a cuidar la creación como “casa común” (Laudato si’).'],
+ [/\b(enferm|hospital|salud|pandemia|cáncer|epidemia)/i,'Los enfermos','“Estuve enfermo y me visitaron” (Mateo 25,36). La Iglesia pide cuidar a los enfermos y a quienes los cuidan.']
+];
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+const rel=iso=>{if(!iso)return 'Sin fecha';const m=Math.round((Date.now()-new Date(iso))/6e4);if(m<1)return 'Ahora';if(m<60)return `Hace ${m} min`;const h=Math.round(m/60);if(h<24)return `Hace ${h} h`;return new Date(iso).toLocaleDateString('es-CO',{day:'numeric',month:'long'})};
+let DATA=null,FILTER='all';
+function faithFor(it,src){const t=it.title+' '+(it.summary||'');for(const [re,h,txt] of FAITH)if(re.test(t))return [h,txt];return null}
+function card(it,src,big){
+  const c=el('article','card');c.style.setProperty('--c',COL[it.source]||'#888');
+  if(it.image){const i=el('img');i.src=it.image;i.alt='';i.loading='lazy';i.referrerPolicy='no-referrer';i.onerror=()=>{const p=el('div','ph',src.name);i.replaceWith(p)};c.append(i)}else c.append(el('div','ph',src.name));
+  const b=el('div','body');const m=el('div','meta');const d=el('span','dot');m.append(d,document.createTextNode(`${src.name} · ${rel(it.date)}`));
+  const h=el('h3');const a=el('a',null,it.title);a.href=it.link;a.target='_blank';a.rel='noopener';h.append(a);b.append(m,h);
+  if(it.summary)b.append(el('p','sum',it.summary));
+  const f=faithFor(it,src);
+  if(f){const x=el('div','faith');x.append(el('b',null,'Mirada católica: '+f[0]),document.createTextNode(f[1]));x.append(el('small',null,'Principio general de la fe, no un dato de esta noticia.'));b.append(x)}
+  const g=el('a','go','Leer la nota completa en '+src.name);g.href=it.link;g.target='_blank';g.rel='noopener';b.append(g);
+  c.append(b);return c}
+function render(){
+  const out=document.getElementById('out');out.replaceChildren();
+  const S=Object.fromEntries(DATA.sources.map(s=>[s.id,s]));
+  const items=DATA.items.filter(i=>FILTER==='all'||i.source===FILTER);
+  if(!items.length){out.append(el('div','empty','No hay noticias para mostrar ahora. Mira el estado de cada medio más abajo.'));return}
+  const lead=items.find(i=>i.image&&DATA.sources.find(s=>s.id===i.source&&s.group==='Iglesia'))||items.find(i=>i.image);
+  if(lead){const hero=el('div','hero');hero.append(card(lead,S[lead.source],true));out.append(hero)}
+  for(const [g,title,sub] of GROUPS){
+    const list=items.filter(i=>i!==lead&&S[i.source]&&S[i.source].group===g);
+    if(!list.length)continue;
+    out.append(el('h2',null,title),el('p','sub',sub));
+    const gr=el('div','grid');list.forEach(i=>gr.append(card(i,S[i.source])));out.append(gr)}
+}
+function chips(){
+  const w=document.getElementById('chips');w.replaceChildren();
+  const add=(id,label)=>{const b=el('button','chip',label);b.setAttribute('aria-pressed',FILTER===id);b.onclick=()=>{FILTER=id;chips();render()};w.append(b)};
+  add('all','Todos');DATA.sources.filter(s=>s.ok).forEach(s=>add(s.id,s.name))}
+function status(){
+  const ul=document.getElementById('st');ul.replaceChildren();
+  DATA.sources.forEach(s=>{const li=el('li',s.ok?'':'bad');li.append(document.createTextNode(s.ok?`${s.name}: ${s.count} noticias. `:`${s.name}: no se pudo leer (${s.error}). `));const a=el('a',null,'Ir al sitio');a.href=s.home;a.target='_blank';a.rel='noopener';li.append(a);ul.append(li)})}
+async function load(){
+  try{
+    const r=await fetch(NEWS_URL+'?'+Date.now(),{cache:'no-store'});if(!r.ok)throw 0;DATA=await r.json();
+    document.getElementById('stamp').textContent='Actualizado: '+new Date(DATA.generated_at).toLocaleString('es-CO',{dateStyle:'long',timeStyle:'short'})+'. Se renueva cada hora.';
+    chips();render();status();
+  }catch(e){
+    document.getElementById('stamp').textContent='';
+    document.getElementById('out').replaceChildren(el('div','empty','Todavía no hay noticias. Ejecuta el flujo “Actualizar noticias” en GitHub (pestaña Actions) para generar news.json.'))}
+}
+load();setInterval(load,30*60*1000);
+</script>
+</body>
+</html>
