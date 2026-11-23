@@ -1,0 +1,276 @@
+{
+ "generated_at": "2026-11-23T23:51:20.595097+00:00",
+ "sources": [
+  {
+   "id": "aciprensa",
+   "name": "ACI Prensa",
+   "group": "Iglesia",
+   "home": "https://www.aciprensa.com",
+   "catholic": true,
+   "ok": false,
+   "count": 0,
+   "feed": null,
+   "error": "ParseError: not well-formed (invalid token): line 59, column 35"
+  },
+  {
+   "id": "ewtn",
+   "name": "EWTN Noticias",
+   "group": "Iglesia",
+   "home": "https://www.ewtnnoticias.com",
+   "catholic": true,
+   "ok": false,
+   "count": 0,
+   "feed": null,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "id": "semana",
+   "name": "Semana",
+   "group": "Colombia",
+   "home": "https://www.semana.com",
+   "catholic": false,
+   "ok": true,
+   "count": 8,
+   "feed": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml",
+   "error": null
+  },
+  {
+   "id": "eltiempo",
+   "name": "El Tiempo",
+   "group": "Colombia",
+   "home": "https://www.eltiempo.com",
+   "catholic": false,
+   "ok": true,
+   "count": 8,
+   "feed": "https://www.eltiempo.com/rss/colombia.xml",
+   "error": null
+  },
+  {
+   "id": "citytv",
+   "name": "Citytv",
+   "group": "Colombia",
+   "home": "https://citytv.com.co",
+   "catholic": false,
+   "ok": false,
+   "count": 0,
+   "feed": null,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "id": "infobae",
+   "name": "Infobae",
+   "group": "Mundo",
+   "home": "https://www.infobae.com",
+   "catholic": false,
+   "ok": true,
+   "count": 8,
+   "feed": "https://www.infobae.com/arc/outboundfeeds/rss/",
+   "error": null
+  },
+  {
+   "id": "rtve",
+   "name": "TVE (RTVE)",
+   "group": "Mundo",
+   "home": "https://www.rtve.es/noticias/",
+   "catholic": false,
+   "ok": false,
+   "count": 0,
+   "feed": null,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  }
+ ],
+ "items": [
+  {
+   "source": "semana",
+   "title": "Black Friday se jugará el 25 % de las ventas navideñas: así se alista el comercio para esta fecha",
+   "link": "https://www.semana.com/economia/empresas/articulo/black-friday-se-jugara-el-25-de-las-ventas-navidenas-asi-se-alista-el-comercio-para-esta-fecha/202609/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/PQOQ5VBUU5EDXOQWJ2GQ25ZX5Q.png?auth=696ced1c6a84c7e6482bb427049ae29ca9c0539c40efc49e3bf6dcf1918e8da9&smart=true&width=1280&height=720",
+   "date": "2026-11-23T23:45:09+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Caso Canacol: Corte de Alberta-Canadá niega permiso a empresas afectadas para apelar a terminación de contratos",
+   "link": "https://www.semana.com/confidenciales/articulo/caso-canacol-corte-de-alberta-canada-niega-permiso-a-empresas-afectadas-para-apelar-a-terminacion-de-contratos/202648/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/YYB6O57U2NDA3D7KPMK5LPSWPA.jpg?auth=2ed5e9e9b5aecf4fb2f7f4e8b34863081f183a48b5cbc6726762a9847090a5fe&smart=true&width=1280&height=720",
+   "date": "2026-11-23T23:42:48+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Atentado sicarial en Palmira cobra la vida de reconocido bombero; su esposa, una contratista del Inpec, fue herida",
+   "link": "https://www.semana.com/nacion/cali/articulo/atentado-sicarial-en-palmira-cobra-la-vida-de-reconocido-bombero-su-esposa-una-contratista-del-inpec-fue-herida/202657/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/WEBT42G4IBDEPMWEYW3TKCA7JM.jpg?auth=2997a9c72d39552fa7aab3cff326c7580938c3b47dee548bc4e60a15f21fdf19&smart=true&width=3264&height=2268",
+   "date": "2026-11-23T23:40:57+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Solo para adultos y con un 90 % de respaldo en cines: así es la nueva película de guerra que estrena Netflix esta semana",
+   "link": "https://www.semana.com/cultura/cine/articulo/solo-para-adultos-y-con-un-90-de-respaldo-en-cines-asi-es-la-nueva-pelicula-de-guerra-que-estrena-netflix-esta-semana/202617/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/JPTYQMGPLFERZFL7BAJPFGXPPU.jpg?auth=5d1aba01d31f57b25ea405839ea7064bea1427c72e54669a3896718f2d0b3b65&smart=true&width=738&height=414",
+   "date": "2026-11-23T23:29:17+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Feid será el único colombiano en el desfile de Macy’s por sus 100 años: fecha, artistas invitados y cómo verlo en vivo",
+   "link": "https://www.semana.com/gente/articulo/feid-sera-el-unico-colombiano-en-el-desfile-de-macys-por-sus-100-anos-fecha-artistas-invitados-y-como-verlo-en-vivo/202659/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/U5YJC5ZLAFCFNMPAUGL7QY3URE.jpg?auth=ca3121e2984e82a763ff8db62d4e0d6368b9d768cb3771b8b84af5be4aaa4ff7&smart=true&width=3000&height=2000",
+   "date": "2026-11-23T23:26:59+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Malas noticias en Millonarios con Juan Guillermo Cuadrado y Mackalister Silva: reportan “esguince”",
+   "link": "https://www.semana.com/deportes/articulo/malas-noticias-en-millonarios-con-juan-guillermo-cuadrado-y-mackalister-silva-reportan-esguince/202656/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/O46JQUNYKVGYLNY24SWQGSOJIU.png?auth=5390fa1552c7171bdf0b22ef8f05fe9dae7f39bc6d04aabc5561e1ab2b97c9bd&smart=true&width=1280&height=720",
+   "date": "2026-11-23T23:18:56+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Luz verde al petróleo en los Llanos: ANLA aprueba dos megaproyectos en Casanare y Meta",
+   "link": "https://www.semana.com/economia/macroeconomia/articulo/luz-verde-al-petroleo-en-los-llanos-anla-aprueba-dos-megaproyectos-en-casanare-y-meta/202638/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/AOOWBHDTXRHFTIUJVMHPLCCYT4.png?auth=fd8a3356516ddd1b474552d0fe8a10eec0e8fac4b0d2a582832ebfec8eb80820&smart=true&width=1280&height=720",
+   "date": "2026-11-23T23:18:38+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Ordenan al presidente reconocer que seguidores del ‘wokismo’ no son enemigos de la Nación",
+   "link": "https://www.semana.com/nacion/articulo/ordenan-al-presidente-reconocer-que-seguidores-del-wokismo-no-son-enemigos-de-la-nacion/202632/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/5CQCEPZHZFE6XNHCSGIUBB2UN4.jpg?auth=3d6ec04fac9233b9af8a65fd5f6356d518ec86d7deaf79d6c12b55a1507ce96b&smart=true&width=1920&height=1080",
+   "date": "2026-11-23T23:14:32+00:00"
+  },
+  {
+   "source": "eltiempo",
+   "title": "Mapa del territorio de bombardeo donde el frente de alias Bertha del Eln y disidentes de ‘Mordisco’ se disputan el oro con retroexcavadoras en Valle",
+   "link": "https://www.eltiempo.com/colombia/cali/mapa-del-territorio-de-bombardeo-donde-el-frente-de-alias-bertha-del-eln-y-disidentes-de-mordisco-se-disputan-el-oro-con-retroexcavadoras-en-valle-3603528",
+   "summary": "El bombardeo de la Operación Neptuno en la vereda La Elsa, Dagua, expuso la violenta disputa territorial por economías ilícitas.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/23/6b04ba8763d77.png",
+   "date": "2026-11-23T22:45:27+00:00"
+  },
+  {
+   "source": "eltiempo",
+   "title": "Serían cuatro extranjeros los dueños de las maletas encontradas con 174 kilos de cocaína en el aeropuerto de Rionegro: así avanza la investigación",
+   "link": "https://www.eltiempo.com/colombia/medellin/serian-cuatro-extranjeros-los-duenos-de-las-maletas-encontradas-con-174-kilos-de-cocaina-en-el-aeropuerto-de-rionegro-asi-avanza-la-investigacion-3603543",
+   "summary": "Autoridades rastrean a los sospechosos, quienes ingresaron al país el 9 de noviembre y no abordaron el vuelo a Punta Cana tras facturar el equipaje.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/23/6b04b90cea33c.r_d.1056-748-0.jpeg",
+   "date": "2026-11-23T22:25:52+00:00"
+  },
+  {
+   "source": "eltiempo",
+   "title": "Sofía Vergara regresa a Barranquilla: este martes recibirá la máxima distinción de la ciudad frente a su estatua de bronce en el Gran Malecón",
+   "link": "https://www.eltiempo.com/colombia/barranquilla/sofia-vergara-llega-este-martes-a-barranquilla-recibira-la-maxima-distincion-de-la-ciudad-frente-a-su-estatua-de-bronce-en-el-gran-malecon-3603537",
+   "summary": "La Alcaldía le entregará un decreto de exaltación a la actriz a las 5:30 p. m. El Carnaval le dará el Turbante de la Tradición.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/23/6b04b9897f131.png",
+   "date": "2026-11-23T22:22:16+00:00"
+  },
+  {
+   "source": "eltiempo",
+   "title": "Túnel de Oriente estrena el puente de Sajonia y busca reforzar el tránsito: ¿cuáles son los beneficios de movilidad hacia el aeropuerto de Rionegro?",
+   "link": "https://www.eltiempo.com/colombia/medellin/tunel-de-oriente-estrena-el-puente-de-sajonia-y-busca-reforzar-el-transito-cuales-son-los-beneficios-de-movilidad-hacia-el-aeropuerto-de-rionegro-3603464",
+   "summary": "La nueva conexión vial comenzó a operar en Antioquia y promete mejorar la circulación de los vehículos en uno de los corredores del departamento.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/23/6b04434f9ef4e.jpeg",
+   "date": "2026-11-23T21:44:44+00:00"
+  },
+  {
+   "source": "eltiempo",
+   "title": "Conmoción y recompensa millonaria tras asesinato de dos menores de edad en Barrancabermeja: eran estudiantes del colegio Camilo Torres",
+   "link": "https://www.eltiempo.com/colombia/santander/conmocion-y-recompensa-millonaria-tras-asesinato-de-dos-menores-de-edad-en-barrancabermeja-eran-estudiantes-del-colegio-camilo-torres-3603524",
+   "summary": "La Alcaldía, junto a la Gobernación de Santander, se unió para ofrecer una recompensa de hasta 50 millones de pesos.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/31/6a6d11b656498.r_d.196-93-0.jpeg",
+   "date": "2026-11-23T21:18:29+00:00"
+  },
+  {
+   "source": "eltiempo",
+   "title": "Las más de 50 matronas que guardan la cocina del barrio Abajo, en Barranquilla, tendrán reconocimiento oficial",
+   "link": "https://www.eltiempo.com/colombia/barranquilla/las-mas-de-50-matronas-que-guardan-la-cocina-del-barrio-abajo-en-barranquilla-tendran-reconocimiento-oficial-3603511",
+   "summary": "El Concejo Distrital declaró de interés turístico el Festival Sabor Bajero y ordenó un registro con enfoque de género de estas cocineras.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/23/6b04a452463ed.png",
+   "date": "2026-11-23T21:07:39+00:00"
+  },
+  {
+   "source": "eltiempo",
+   "title": "Estudiantes de todo el país presentaron en Cartagena proyectos de innovación para soluciones tecnológicas en agua, aire y energía con IA",
+   "link": "https://www.eltiempo.com/colombia/otras-ciudades/estudiantes-de-todo-el-pais-presentaron-en-cartagena-proyectos-de-innovacion-para-soluciones-tecnologicas-en-agua-aire-y-energia-con-ia-3603494",
+   "summary": "La Ciudad Heroica reunió a los 60 equipos finalistas de las Olimpiadas STEM+ Colombia 2026.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/23/6b04a74149bdc.jpeg",
+   "date": "2026-11-23T20:59:55+00:00"
+  },
+  {
+   "source": "eltiempo",
+   "title": "El diseñador que pasó de una muñeca quemada en su infancia a incluir modelos con discapacidad y desplazadas en el Valle lidera cita en Cartagena",
+   "link": "https://www.eltiempo.com/colombia/cali/el-disenador-que-paso-de-una-muneca-quemada-en-su-infancia-a-incluir-modelos-con-discapacidad-y-desplazadas-en-el-valle-lidera-cita-en-cartagena-3603496",
+   "summary": "La historia de Guio Di Colombia, quien está al frente de la Cámara de la Moda Colombiana y el DMC Fashion Awards & Summit en la ciudad amurallada.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/23/6b049e84e3f88.r_d.728-430-0.png",
+   "date": "2026-11-23T20:58:05+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Los mejores 8 momentos del debate a 8 de portavoces: del rifirrafe de Ester Muñoz con Gabriel Rufián por ser “cómplices” del PSOE al enfado entre Emilio Delgado y Pepa Millán por las “moquetas”",
+   "link": "https://www.infobae.com/espana/2026/11/23/los-mejores-8-momentos-del-debate-a-8-de-portavoces-del-rifirrafe-de-ester-munoz-con-gabriel-rufian-por-ser-complices-del-psoe-al-enfado-entre-emilio-delgado-y-pepa-millan-por-las-moquetas/",
+   "summary": "La portavoz del PP en el Congreso ha acusado al ‘número uno’ de Frente Amplio por Madrid, Emilio Delgado, de haber “apartado” a la portavoz de Sumar en el Congreso para poder acudir él mismo al debate",
+   "image": "https://www.infobae.com/resizer/v2/254OX7D4GJADJDE3WI655H4QFA.jpg?auth=c8e0a9482c59611911ebdbab69996ad7aeaba8d86e8eacf94ba24b306837fc80&smart=true&width=1920&height=1376",
+   "date": "2026-11-23T23:46:49+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Rufián reprocha al Gobierno los homenajes a Franco y el PSOE le replica: \"Pregúntaselo al juez que lo permitió\"",
+   "link": "https://www.infobae.com/espana/agencias/2026/11/23/rufian-reprocha-al-gobierno-los-homenajes-a-franco-y-el-psoe-le-replica-preguntaselo-al-juez-que-lo-permitio/",
+   "summary": "",
+   "image": "https://www.infobae.com/resizer/v2/Y5E4CI2XDRG4HLSEFPUB4SOIJY.jpg?auth=2e3f5fa1f540c10fdc6978ef86bd63840cbf8c81c9dc5049513e57af6b40c93c&smart=true&width=1600&height=1026",
+   "date": "2026-11-23T23:46:26+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "El PP acusa a Rufián de haber apoyado todas las leyes del PSOE en esta legislatura: Es el \"Braveheart de Temu\"",
+   "link": "https://www.infobae.com/espana/agencias/2026/11/23/el-pp-acusa-a-rufian-de-haber-apoyado-todas-las-leyes-del-psoe-en-esta-legislatura-es-el-braveheart-de-temu/",
+   "summary": "",
+   "image": "https://www.infobae.com/resizer/v2/P5XXMG3RQVFL5LPLZXNBP5PSDY.jpg?auth=55d75e1f1aa2eabf15e73d2ad8d3e127e920693afcd290788d73b0b67ebfd5ca&smart=true&width=1064&height=1600",
+   "date": "2026-11-23T23:46:08+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Nogueras llama a Rufián candidato de Podemos y él proclama su orgullo por representar la diversidad de Cataluña",
+   "link": "https://www.infobae.com/espana/agencias/2026/11/23/nogueras-llama-a-rufian-candidato-de-podemos-y-el-proclama-su-orgullo-por-representar-la-diversidad-de-cataluna/",
+   "summary": "",
+   "image": "https://www.infobae.com/resizer/v2/SLER6JFSKFAV7FXGNOKV7X46OA.jpg?auth=f2d40a7c41690cdb1b5cc11e1580c5115b1d9fa3ccb34b8ee4dc62059d898874&smart=true&width=1600&height=1026",
+   "date": "2026-11-23T23:45:51+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "El PSOE cierra el debate apelando al votante progresista: \"Tú no añoras dictaduras, tú defiendes democracias\"",
+   "link": "https://www.infobae.com/espana/agencias/2026/11/23/el-psoe-cierra-el-debate-apelando-al-votante-progresista-tu-no-anoras-dictaduras-tu-defiendes-democracias/",
+   "summary": "",
+   "image": "https://www.infobae.com/resizer/v2/FNKDC3JBCJAOJAICCOAO54Q6KU.jpg?auth=167efd1ad68a341bc158de7abcc29541d9cdf5fa1682c1ee767220377ad54b05&smart=true&width=1600&height=1228",
+   "date": "2026-11-23T23:45:34+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Fiscalía mexicana ubica 40 domicilios ligados a corrupción en el órgano electoral del país",
+   "link": "https://www.infobae.com/america/agencias/2026/11/23/fiscalia-mexicana-ubica-40-domicilios-ligados-a-corrupcion-en-el-organo-electoral-del-pais/",
+   "summary": "",
+   "image": null,
+   "date": "2026-11-23T23:45:29+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Más de 700.000 soldados rusos han muerto en Ucrania, indica un análisis",
+   "link": "https://www.infobae.com/america/the-new-york-times/2026/11/23/mas-de-700000-soldados-rusos-han-muerto-en-ucrania-indica-un-analisis/",
+   "summary": "Reportajes Especiales - News",
+   "image": "https://www.infobae.com/resizer/v2/MJ4ZNFYT2RCD5PODVKRVLV6CVY.jpg?auth=add74838573481d27515aa99fbb0e03d5bea92e1ff055ac9ce3f57cd3250eb14&smart=true&width=2048&height=1463",
+   "date": "2026-11-23T23:45:24+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Movilidad en Bogotá del lunes 23 de noviembre: manifestaciones en la calle 72 y fuertes lluvias generaron congestión en la capital",
+   "link": "https://www.infobae.com/colombia/2026/11/23/en-vivo-problemas-de-movilidad-en-bogota-protesta-genera-afectaciones-y-conductores-convocaron-manifestaciones-en-la-tarde-de-este-lunes-23-de-noviembre/",
+   "summary": "Conductores y pasajeros debieron considerar rutas alternas, salir con anticipación y consultar las actualizaciones de Bogotá Tránsito y TransMilenio, debido a posibles desvíos durante la jornada",
+   "image": "https://www.infobae.com/resizer/v2/SXIAM6VYXJGFBHNYAGMXI3FNSE.jpg?auth=49756597fa093f94180470ae53d5fdfa2c870d097626a75e3a3b6ae49e45aebd&smart=true&width=1000&height=667",
+   "date": "2026-11-23T23:44:20+00:00"
+  }
+ ]
+}
