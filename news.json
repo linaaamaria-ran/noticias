@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:04:42.252854+00:00",
+ "generated_at": "2026-11-24T07:10:13.013883+00:00",
  "sources": [
   {
    "id": "aciprensa",
@@ -82,6 +82,22 @@
  "items": [
   {
    "source": "semana",
+   "title": "El presidente Abelardo De La Espriella viajará al Meta tras atentado en Villavicencio",
+   "link": "https://www.semana.com/confidenciales/articulo/el-presidente-abelardo-de-la-espriella-viajara-al-meta-tras-atentado-en-villavicencio/202619/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/GEQATYEY6VDETCREHOBVMF6XEA.jpg?auth=61587874fc6b1b1ea04e686421b8846202ec85a084c0478479430b7b7d080975&smart=true&width=2048&height=1365",
+   "date": "2026-11-24T05:03:19+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "La temporada decembrina pone a prueba la capacidad de conexión de las empresas y los operadores de internet",
+   "link": "https://www.semana.com/economia/capsulas/articulo/la-temporada-decembrina-pone-a-prueba-la-capacidad-de-conexion-de-las-empresas-y-los-operadores-de-internet/202631/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/VTNTCBEBSRDF3BX4TLLHG7ZQ64.jpeg?auth=7a48751057042ee646dcb77d625c462f5ae8fd2eaeeb77d8071aea05bf99e97d&smart=true&width=2752&height=1536",
+   "date": "2026-11-24T05:01:31+00:00"
+  },
+  {
+   "source": "semana",
    "title": "Este es el primer reporte oficial sobre el atentado contra la Gobernación del Meta",
    "link": "https://www.semana.com/nacion/regionales/articulo/este-es-el-primer-reporte-oficial-sobre-el-atentado-contra-la-gobernacion-del-meta/202645/",
    "summary": "",
@@ -129,20 +145,20 @@
    "date": "2026-11-24T04:17:59+00:00"
   },
   {
-   "source": "semana",
-   "title": "“¿Hasta dónde quieren llevarnos?“: defensora del Pueblo, Iris Marín, cuestiona atentado en la Gobernación del Meta",
-   "link": "https://www.semana.com/politica/articulo/hasta-donde-quieren-llevarnos-defensora-del-pueblo-iris-marin-cuestiona-atentado-en-la-gobernacion-del-meta/202648/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/GHRZYS4VFFBHJNLRUB72XH6YGI.JPG?auth=fab641bc3de9e81de181a054c84d1e7591f7752941cef367c40ecbcd116c2622&smart=true&width=4186&height=2910",
-   "date": "2026-11-24T04:10:48+00:00"
+   "source": "eltiempo",
+   "title": "Video | Este sería el momento exacto en el que explotó el carro bomba cerca de la Gobernación del Meta: la onda explosiva causó graves afectaciones",
+   "link": "https://www.eltiempo.com/colombia/otras-ciudades/video-este-seria-el-momento-exacto-en-el-que-exploto-el-carro-bomba-cerca-de-la-gobernacion-del-meta-la-onda-explosiva-causo-graves-afectaciones-3603646",
+   "summary": "Una cámara de seguridad mostraría un lugar cercano a la Plaza Los Libertadores en Villavicencio.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/24/6b052bd35dc6b.png",
+   "date": "2026-11-24T06:49:29+00:00"
   },
   {
-   "source": "semana",
-   "title": "Número y signo ganadores del Super Astro Luna del lunes 23 de noviembre de 2026",
-   "link": "https://www.semana.com/loterias/articulo/numero-y-signo-ganadores-del-super-astro-luna-del-lunes-23-de-noviembre-de-2026/202624/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/WK2CD4BHF5HPBJT7AYUMLQW4FI.png?auth=6cb44f24bdda8ebb66e8c0412e3dea6ebbd7482ebdba2ea77f9a5d161c881258&smart=true&width=9200&height=5200",
-   "date": "2026-11-24T03:59:24+00:00"
+   "source": "eltiempo",
+   "title": "Atentado con carro bomba contra la Gobernación del Meta en el centro de Villavicencio: aumenta a 23 la cifra de heridos tras ataque terrorista",
+   "link": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-carro-bomba-contra-la-gobernacion-del-meta-en-el-centro-de-villavicencio-reacciones-y-ultimas-noticias-tras-el-ataque-terrorista-3603643",
+   "summary": "Conozca acá toda la información relacionada con la fuerte explosión.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/23/6b0504ef8c75f.r_d.309-139-0.png",
+   "date": "2026-11-24T06:10:27+00:00"
   },
   {
    "source": "eltiempo",
@@ -150,13 +166,13 @@
    "link": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-carro-bomba-contra-la-gobernacion-del-meta-asi-reaccionaron-figuras-politicas-y-personalidades-publicas-3603641",
    "summary": "Los edificios aledaños fueron afectados total o parcialmente. No se reportan víctimas mortales.",
    "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/23/6b050e94ba235.r_d.422-610-0.webp",
-   "date": "2026-11-24T04:54:53+00:00"
+   "date": "2026-11-24T05:28:31+00:00"
   },
   {
    "source": "eltiempo",
    "title": "Videos muestran gravedad del atentado con explosivos contra la Gobernación del Meta en la noche de este 23 de noviembre: hay varios locales afectados",
    "link": "https://www.eltiempo.com/colombia/otras-ciudades/imagenes-del-atentado-con-explosivos-contra-la-gobernacion-del-meta-en-la-noche-de-este-lunes-23-de-noviembre-3603625",
-   "summary": "Fuerte explosión azotó el centro de Villavicencio sobre las 9:30 de la noche. Se reportan 12 personas heridas y daños estructurales en zonas cercanas.",
+   "summary": "Fuerte explosión azotó el centro de Villavicencio sobre las 9:30 de la noche. Se reportan más de 20 personas heridas.",
    "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/23/6b04fdb7465e5.png",
    "date": "2026-11-24T04:15:44+00:00"
   },
@@ -193,84 +209,68 @@
    "date": "2026-11-24T02:31:12+00:00"
   },
   {
-   "source": "eltiempo",
-   "title": "Una década del Acuerdo de Paz con las Farc en el Cauca: logros y deudas en medio del recrudecimiento de la violencia en el suroccidente del país",
-   "link": "https://www.eltiempo.com/colombia/cali/una-decada-del-acuerdo-de-paz-con-las-farc-en-el-cauca-logros-y-deudas-en-medio-del-recrudecimiento-de-la-violencia-en-el-suroccidente-del-pais-3602161",
-   "summary": "A diez años de la firma, el balance incluye acciones en la JEP, entrega de tierras y búsqueda de desaparecidos.",
-   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/09/20/650b84a08e4ca.jpeg",
-   "date": "2026-11-24T02:28:59+00:00"
-  },
-  {
-   "source": "eltiempo",
-   "title": "Perdió la vista y el oído, pero no la memoria: el calvario de doña Consuelo, a quien las Farc le secuestraron a su esposo e hijo y no los volvió a ver",
-   "link": "https://www.eltiempo.com/colombia/medellin/perdio-la-vista-y-el-oido-pero-no-la-memoria-el-calvario-de-dona-consuelo-a-quien-las-farc-le-secuestraron-a-su-esposo-e-hijo-y-no-los-volvio-a-ver-3602874",
-   "summary": "Tras huir de Urabá a Medellín, la mujer lleva 29 años exigiendo saber dónde dejaron los cuerpos de los suyos.",
-   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/20/6b00d4442ac5e.jpeg",
-   "date": "2026-11-24T02:26:55+00:00"
+   "source": "infobae",
+   "title": "Elecciones generales 29-N, en directo: última hora de la campaña electoral y los candidatos en el primer día sin sondeos",
+   "link": "https://www.infobae.com/espana/2026/11/24/elecciones-generales-29-n-en-directo-ultima-hora-de-la-campana-electoral-y-los-candidatos-en-el-primer-dia-sin-sondeos/",
+   "summary": "Con el plazo legal para publicar sondeos ya cerrado, la mayoría de las encuestas apunta a una mayoría absoluta de PP y Vox a cinco días de las elecciones generales. El CIS rompe la tendencia y otorga al PSOE una ventaja de casi diez puntos sobre los populares",
+   "image": "https://www.infobae.com/resizer/v2/DERFQKMBZNAQLICY26VUSH4T7I.jpg?auth=62665874d1cfe243ac52ab15f725592ef2e330f279fa9d1b35ee52e13788d8e9&smart=true&width=1920&height=1200",
+   "date": "2026-11-24T07:01:42+00:00"
   },
   {
    "source": "infobae",
-   "title": "Qué hará Elon Musk con el cohete reutilizable Starship tras su regreso a la torre de lanzamiento",
-   "link": "https://www.infobae.com/america/ciencia-america/2026/11/24/que-hara-elon-musk-con-el-cohete-reutilizable-starship-tras-su-regreso-a-la-torre-de-lanzamiento/",
-   "summary": "“Podría volver a volar”, aseguró el empresario. No obstante, la decisión de la firma abre una excepción a la lógica habitual",
-   "image": "https://www.infobae.com/resizer/v2/4H7YA4Z4XJFHRAHZEDNPRWCIXI.png?auth=9122e8432e6468b16d6df6d26af57fa7a3792cc9528c5ae1985169ecb44b85c2&smart=true&width=587&height=368",
-   "date": "2026-11-24T05:00:00+00:00"
+   "title": "Al menos 23 heridos por un atentado con coche bomba contra la Gobernación del Meta en Villavicencio",
+   "link": "https://www.infobae.com/america/agencias/2026/11/24/al-menos-23-heridos-por-un-atentado-con-coche-bomba-contra-la-gobernacion-del-meta-en-villavicencio/",
+   "summary": "",
+   "image": "https://www.infobae.com/resizer/v2/3IUUHSVSOBCSND6QIL5OLZYOG4.jpg?auth=e134bf41db6b7e561a49239cff046272f21a9ce065f90fad072b6673dec1918d&smart=true&width=1920&height=1280",
+   "date": "2026-11-24T07:01:01+00:00"
   },
   {
    "source": "infobae",
-   "title": "Más allá del chimichurri y la criolla: ocho recetas de salsas para acompañar la carne e innovar en la cocina",
-   "link": "https://www.infobae.com/tendencias/2026/11/24/mas-alla-del-chimichurri-y-la-criolla-ocho-recetas-de-salsas-para-acompanar-la-carne-e-innovar-en-la-cocina/",
-   "summary": "Alternativas cremosas, picantes o agridulces elaboradas con hongos, quesos intensos o palta permiten realzar cortes vacunos, piezas de cerdo y bifes a la plancha",
-   "image": "https://www.infobae.com/resizer/v2/GMGN4IW6TZD3HPDSZCMLGBHDV4.png?auth=9f5142a234b7952c2418ee54d307cd3e95a01210b0014b3317e8b04da1efa0ef&smart=true&width=2752&height=1536",
-   "date": "2026-11-24T05:00:00+00:00"
+   "title": "Irán dice que tres petroleros “escoltados por EE.UU.” chocaron con minas en Ormuz",
+   "link": "https://www.infobae.com/america/agencias/2026/11/24/iran-dice-que-tres-petroleros-escoltados-por-eeuu-chocaron-con-minas-en-ormuz/",
+   "summary": "",
+   "image": null,
+   "date": "2026-11-24T07:01:00+00:00"
   },
   {
    "source": "infobae",
-   "title": "Por qué vivimos cansados todo el año: las claves de la astenia social y el burnout crónico",
-   "link": "https://www.infobae.com/salud/ciencia/2026/11/24/por-que-vivimos-cansados-todo-el-ano-las-claves-de-la-astenia-social-y-el-burnout-cronico/",
-   "summary": "El agotamiento ya no aparece solo en las últimas semanas del calendario. La hipervigilancia, la incertidumbre y la hiperconexión sostienen un desgaste emocional, cognitivo y físico persistente. Cómo afecta al cerebro",
-   "image": "https://www.infobae.com/resizer/v2/OYWLAEJKRFEKNISCDUL5V64O34.png?auth=9f2f5487a0335c665171d3f9fa9024a0bc2404e28a1dd3609e023cbd840b971e&smart=true&width=2752&height=1536",
-   "date": "2026-11-24T05:00:00+00:00"
+   "title": "Defensas antiaéreas rusas derriban 699 drones ucranianos, la mitad de ellos en dirección a Moscú",
+   "link": "https://www.infobae.com/america/agencias/2026/11/24/defensas-antiaereas-rusas-derriban-699-drones-ucranianos-la-mitad-de-ellos-en-direccion-a-moscu/",
+   "summary": "",
+   "image": null,
+   "date": "2026-11-24T07:00:41+00:00"
   },
   {
    "source": "infobae",
-   "title": "Dengue y El Niño: qué señales climáticas pueden anticipar un brote en la Argentina y cómo usarlas para prevenirlo",
-   "link": "https://www.infobae.com/america/medio-ambiente/2026/11/24/dengue-y-el-nino-que-senales-climaticas-pueden-anticipar-un-brote-en-la-argentina-y-como-usarlas-para-prevenirlo/",
-   "summary": "Una investigación basada en registros de 2018 a 2024 identificó vínculos entre el Pacífico, la temperatura y la humedad, con hasta cinco meses de margen para reforzar la vigilancia sanitaria",
-   "image": "https://www.infobae.com/resizer/v2/ZJ6SYF7W2NF4NBHMPKVPE7RRGQ.png?auth=9edbe63597ef6b6eed91c9ade221561c3fffd2ba77d1ecf338758786b349007f&smart=true&width=2752&height=1536",
-   "date": "2026-11-24T05:00:00+00:00"
+   "title": "La nueva geografía de las oportunidades",
+   "link": "https://www.infobae.com/america/opinion/2026/11/24/la-nueva-geografia-de-las-oportunidades/",
+   "summary": "Durante dos jornadas, autoridades y ejecutivos analizaron el impacto de la inteligencia artificial, el turismo, la conectividad aérea y la cooperación económica con los países árabes",
+   "image": "https://www.infobae.com/resizer/v2/SQCQVIKKFFGGTEVH4DAXIRHROI.jpeg?auth=f6349657294526ec3c4812db391064f1ac0ecab01487d24c87119fb9f74eec0d&smart=true&width=1024&height=682",
+   "date": "2026-11-24T07:00:00+00:00"
   },
   {
    "source": "infobae",
-   "title": "Rutina de ejercicio que puedes realizar en escaleras en 30 minutos",
-   "link": "https://www.infobae.com/mexico/2026/11/24/rutina-de-ejercicio-que-puedes-realizar-en-escaleras-en-30-minutos/",
-   "summary": "El entrenamiento alterna intervalos de subida con ejercicios sencillos en el rellano",
-   "image": "https://www.infobae.com/resizer/v2/MVW7OHYSSBFTZLDFXEJFSNCO6Q.png?auth=cca75cd57b10734d169e21eee852c639a689e18b6090b22420bc0031cc633a2a&smart=true&width=2752&height=1536",
-   "date": "2026-11-24T05:00:00+00:00"
+   "title": "Cuántas plantas sembrar en la huerta familiar según la cantidad de personas en casa",
+   "link": "https://www.infobae.com/tendencias/2026/11/24/cuantas-plantas-sembrar-en-la-huerta-familiar-segun-la-cantidad-de-personas-en-casa/",
+   "summary": "El calendario local, la disponibilidad de agua y las preferencias alimentarias son factores centrales al momento de organizar un proyecto de autocultivo",
+   "image": "https://www.infobae.com/resizer/v2/MZ2C3M6TBRCILN6PH4E7YESBRQ.png?auth=2e7bb14b4e5ae6849219c38148e693650e5976646620cd3f731627280114aa9f&smart=true&width=2752&height=1536",
+   "date": "2026-11-24T07:00:00+00:00"
   },
   {
    "source": "infobae",
-   "title": "Día del Vino Argentino: por qué es la bebida nacional y cuáles son las cinco claves de su futuro",
-   "link": "https://www.infobae.com/tendencias/2026/11/24/dia-del-vino-argentino-por-que-es-la-bebida-nacional-y-cuales-son-las-cinco-claves-de-su-futuro/",
-   "summary": "A 16 años del decreto que lo consagró como emblema de nuestro país, llega a su día con menos viñedos y el consumo en mínimos históricos, pero también con los mejores vinos de su historia y reconocimiento global",
-   "image": "https://www.infobae.com/resizer/v2/GH4T7WEYENGU5F4FPYNW4KJ5EY.png?auth=64147f162e31cb4a6f9fb9f823d0a5388476669ace7b07fa80922a7e807804b1&smart=true&width=2752&height=1536",
-   "date": "2026-11-24T05:00:00+00:00"
+   "title": "Reflexiones sobre el hemisferio occidental después de la Cuba comunista",
+   "link": "https://www.infobae.com/america/opinion/2026/11/24/reflexiones-sobre-el-hemisferio-occidental-despues-de-la-cuba-comunista/",
+   "summary": "Los mandos de defensa en Washington contemplan diversas maniobras estratégicas ante un eventual fin del régimen comunista, buscando contener la influencia de potencias rivales y asegurar las rutas marítimas en el Caribe",
+   "image": "https://www.infobae.com/resizer/v2/KHAMUFKOYZBWVAVOMTSL3JIEMQ.jpg?auth=9294200a2212d5ead71c3a0992270f98f5980a4a51ad4d7e55ce9de51f7cd97a&smart=true&width=3000&height=2000",
+   "date": "2026-11-24T07:00:00+00:00"
   },
   {
    "source": "infobae",
-   "title": "¿Transpirar equivale a quemar más grasa? Qué dicen los especialistas",
-   "link": "https://www.infobae.com/salud/2026/11/24/transpirar-equivale-a-quemar-mas-grasa-que-dicen-los-especialistas/",
-   "summary": "La ropa empapada al terminar una rutina suele asociarse con un mayor esfuerzo, aunque la eliminación de líquidos y el gasto energético siguen mecanismos diferentes. Las claves que influyen en el descenso de peso",
-   "image": "https://www.infobae.com/resizer/v2/AH6G3LJIRRHRRKLP5UXQPAEUIQ.png?auth=c655f1f6da1321f48aa7f8a6beadd7530ac45f25841dd5967e4a5b63b959b3c7&smart=true&width=2752&height=1536",
-   "date": "2026-11-24T05:00:00+00:00"
-  },
-  {
-   "source": "infobae",
-   "title": "Reacciones al atentado contra la Gobernación del Meta: Presidencia, gobernaciones y figuras políticas expresaron su rechazo y solidaridad",
-   "link": "https://www.infobae.com/colombia/2026/11/24/reacciones-al-atentado-contra-la-gobernacion-del-meta-presidencia-gobernaciones-y-figuras-politicas-expresaron-su-rechazo-y-solidaridad/",
-   "summary": "Mientras algunos dirigentes exigieron perseguir y someter a las estructuras criminales, otros cuestionaron la política de seguridad del Gobierno. También hubo llamados a proteger la institucionalidad, garantizar la seguridad de la población y evitar que la violencia intimide a las autoridades y los…",
-   "image": "https://www.infobae.com/resizer/v2/HYABOVYMLBB57MOKOTDLTAKHXU.jpg?auth=c24b3e4e289d109b2c7f5b7ec95de6ebca8d5dffc54bf8720387fd445df6db05&smart=true&width=1920&height=1080",
-   "date": "2026-11-24T04:50:14+00:00"
+   "title": "Dramático rescate: salieron a hacer un trekking, el río creció por las lluvias y fueron salvados con una tirolesa",
+   "link": "https://www.infobae.com/sociedad/2026/11/24/dramatico-rescate-salieron-a-hacer-un-trekking-el-rio-crecio-por-las-lluvias-y-fueron-salvados-con-una-tirolesa/",
+   "summary": "El DUAR y los Bomberos Voluntarios montaron un sistema de cuerdas para cruzar el río San Guillermo y poner a salvo a las tres mujeres y al hombre que habían quedado aislados tras la crecida del caudal durante una excursión en Villa de Soto",
+   "image": "https://www.infobae.com/resizer/v2/N7MA7WCGCVCVJGUN2YCS3HQ67Y.png?auth=569457d27f31afbac2d75c441cf9a0bf2d7e5a64d532c44fa4e9f358239ce3bd&smart=true&width=814&height=458",
+   "date": "2026-11-24T06:56:41+00:00"
   }
  ]
 }
