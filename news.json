@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:11:59.790674+00:00",
+ "generated_at": "2026-11-25T07:14:43.765196+00:00",
  "sources": [
   {
    "id": "aciprensa",
@@ -82,11 +82,59 @@
  "items": [
   {
    "source": "semana",
-   "title": "🔴 EN VIVO toma de rehenes en Éxito de Cartagena: secuestradores piden tiempo y planean entregarse, negociación suspendida",
+   "title": "Presidente Abelardo De La Espriella entrega primeros detalles del rescate de rehenes en Éxito de Cartagena: “Operación impecable”",
+   "link": "https://www.semana.com/nacion/cartagena/articulo/presidente-abelardo-de-la-espriella-entrega-primeros-detalles-del-rescate-de-rehenes-en-exito-de-cartagena-operacion-impecable/202629/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/ZISUQBIUBNCMBJTWS5UQ62RVCM.jpg?auth=c195cc6e4408506614ecc6a266f77db7a57cc5a8f782a4aec9ee01a8a7edb43b&smart=true&width=1000&height=530",
+   "date": "2026-11-25T07:05:29+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Se disfrazaron para intentar escapar: detalles de los secuestradores del Éxito de Cartagena; uno fue abatido",
+   "link": "https://www.semana.com/nacion/articulo/se-disfrazaron-para-intentar-escapar-detalles-de-los-secuestradores-del-exito-de-cartagena-uno-fue-abatido/202636/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/ZYVP53OBSRCCNPQXPDIYVAL3AU.jpg?auth=574894183e8234cb06da48d8590bd99c5587be7106fcc4a0ad40be005765e348&smart=true&width=1280&height=720",
+   "date": "2026-11-25T06:59:47+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Éxito de Cartagena: fuerzas especiales rescatan a los secuestrados y logran someter a los asaltantes",
+   "link": "https://www.semana.com/nacion/cartagena/articulo/exito-de-cartagena-fuerzas-especiales-rescatan-a-secuestrados-y-logran-someter-a-asaltantes/202602/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/DMUDQHCBKRAQ3J7MJDOOPFWJ2E.jpeg?auth=aa2e87c42b1df8dfcd3afac80a4a19de726d0f7eb3bcd7ce81d99e4e1e06f45a&smart=true&width=1600&height=900",
+   "date": "2026-11-25T06:31:02+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Rescate en el Éxito de Cartagena: se conocen las primeras imágenes de los rehenes liberados por los comandos especiales",
+   "link": "https://www.semana.com/nacion/cartagena/articulo/rescate-en-el-exito-de-cartagena-se-conocen-las-primeras-imagenes-de-los-rehenes-liberados-por-los-comandos-especiales/202655/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/KHQBYOO5KJDHZHHBBMNPKIFFNA.jpeg?auth=c05501ed828a6ed81eb0b7872ab91c92ed382a6618753c47bfb28889c7f1f8b1&smart=true&width=1600&height=900",
+   "date": "2026-11-25T06:27:57+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Asaltantes del Éxito en Cartagena liberaron a una rehén que tiene problemas de salud: hay máxima tensión en la zona",
+   "link": "https://www.semana.com/nacion/cartagena/articulo/asaltantes-del-exito-en-cartagena-liberaron-a-una-rehen-que-tiene-problemas-de-salud-hay-maxima-tension-en-la-zona/202655/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/YGKSEWJ3NVCADBR2ILJUER2YAU.jpeg?auth=93d3f2b1d50372be7501258a05d29336f708f0488db0800bd9de7b7af5eb6468&smart=true&width=1280&height=720",
+   "date": "2026-11-25T05:50:55+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "🔴 EN VIVO rescate de rehenes en Éxito de Cartagena: Presidente Abelardo De La Espriella califica de “operación impecable”",
    "link": "https://www.semana.com/nacion/cartagena/articulo/en-vivo-asi-avanza-la-toma-de-rehenes-en-almacen-exito-de-cartagena-aparecio-una-carta/202627/",
    "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/RAWDHFFBY5GOJKHRE7O3NVYIW4.jpg?auth=e34f73454a178fe54f3dbc918345a0567fbbf96688c8b3ac2ca4998e6de0b76b&smart=true&width=3264&height=1946",
-   "date": "2026-11-25T05:02:14+00:00"
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/7BNSVQKYS5EERICZ52PPXUURBY.jpeg?auth=2650eb9f2e0904b5a416a4e1251a8a15aef88d60252db7fe6401364af85a1ae3&smart=true&width=1600&height=900",
+   "date": "2026-11-25T05:46:15+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Confirman el número de secuestradores que se tomó el Éxito en Cartagena: planean entregarse. Autoridades suspenden la negociación",
+   "link": "https://www.semana.com/nacion/cartagena/articulo/confirman-el-numero-de-secuestradores-que-se-tomo-el-exito-en-cartagena-planean-entregarse-autoridades-suspenden-la-negociacion/202641/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/D2PSLP63LBCWHG7CQ66LVC4CVE.jpeg?auth=f0a04c4cf789aa897c71637bb59b870419ee1f3aaf28725d0c64da61a732a6f7&smart=true&width=1280&height=720",
+   "date": "2026-11-25T05:12:41+00:00"
   },
   {
    "source": "semana",
@@ -97,52 +145,12 @@
    "date": "2026-11-25T04:30:04+00:00"
   },
   {
-   "source": "semana",
-   "title": "Jennifer Barreto, de Puerto Rico, es la nueva Miss Universo 2026: reviva el minuto a minuto de la coronación",
-   "link": "https://www.semana.com/gente/articulo/en-vivo-miss-universo-2026-a-pocas-horas-de-la-noche-de-coronacion-este-es-el-top-10-de-las-favoritas/202656/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/DEHNPICM5BCZ5IGUQQJDEBAN74.jfif?auth=ce11af0604f3dbf53a7be796c414fb6f945b65085fc679198d8b33b0b55ff349&smart=true&width=663&height=463",
-   "date": "2026-11-25T04:29:06+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Hijo de trabajadora secuestrada en el Éxito de Cartagena implora por una salida negociada: “Estoy viviendo zozobra”",
-   "link": "https://www.semana.com/nacion/cartagena/articulo/hijo-de-trabajadora-secuestrada-en-el-exito-de-cartagena-implora-por-una-salida-negociada-estoy-viviendo-zozobra/202628/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/4HQKIADFP5A77EWOKXNZD4ACEI.png?auth=07d6fcd73d6ef819e5f2330553b1b5d420235908ee9c7b2f7153bc7ca14422b0&smart=true&width=714&height=415",
-   "date": "2026-11-25T04:23:28+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Resultados de la Lotería del Huila y la Cruz Roja Colombiana este martes, 24 de noviembre de 2026",
-   "link": "https://www.semana.com/loterias/articulo/resultados-de-la-loteria-del-huila-y-la-cruz-roja-colombiana-este-martes-24-de-noviembre-de-2026/202620/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/M4QBULSMPJAEXLH5G24BW6LDIE.jpg?auth=a5195a38c598ac19967f1259b123a4f88a388e34c6f3b551cb188c8ef9de82e2&smart=true&width=1920&height=1080",
-   "date": "2026-11-25T04:17:20+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Atajada de Jean Fernández al último minuto salvó al América contra Cali: lo gritó el Pascual",
-   "link": "https://www.semana.com/deportes/articulo/atajada-de-jean-fernandez-al-ultimo-minuto-salvo-al-america-contra-cali-lo-grito-el-pascual/202614/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/UPLKOGA6CBCGFP5NZFMRFMV7DI.png?auth=c7eaea13e80caf2d256556e4aba932eef2c498ddde72ec3047d8bbbe2da7b789&smart=true&width=1280&height=720",
-   "date": "2026-11-25T04:15:14+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Carlos Antonio Vélez opinó tras la victoria de Millonarios que lo ilusiona con la final: mensaje al Bucaramanga",
-   "link": "https://www.semana.com/deportes/articulo/carlos-antonio-velez-opino-tras-la-victoria-de-millonarios-que-lo-ilusiona-con-la-final-mensaje-al-bucaramanga/202607/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/MT7J5PEFD5HAFNLSWVRCLCC5S4.png?auth=31b8e95565e7172e488e006e365e503214d0b10f60413e5bfb0fd92610c6979d&smart=true&width=1280&height=720",
-   "date": "2026-11-25T04:12:07+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "“Barranquilla nunca se fue de mí”: la emotiva reacción de Sofía Vergara frente a su estatua en el Gran Malecón",
-   "link": "https://www.semana.com/gente/articulo/barranquilla-nunca-se-fue-de-mi-la-emotiva-reaccion-de-sofia-vergara-frente-a-su-estatua-en-el-gran-malecon/202612/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/VYDKYVPJSNDYLFA4SFOX66V5OI.jpeg?auth=adbf99e50a25c1d117c4e671fd5d085bc2135e2416cf7269d3611f921be856e1&smart=true&width=982&height=1279",
-   "date": "2026-11-25T04:07:12+00:00"
+   "source": "eltiempo",
+   "title": "Asalto de hombres armados en Éxito de Cartagena con secuestrados: presidente Abelardo De La Espriella confirma el rescate de todos los rehenes",
+   "link": "https://www.eltiempo.com/colombia/otras-ciudades/asalto-de-hombres-armados-en-exito-de-cartagena-con-rehenes-ultimas-noticias-y-reportes-de-la-emergencia-3604036",
+   "summary": "La Policía Metropolitana de Cartagena y las autoridades entregan reportes preliminares del hecho. Esto se sabe.",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/24/6b05aa4dc1e09.r_d.1103-269-0.png",
+   "date": "2026-11-25T06:54:08+00:00"
   },
   {
    "source": "eltiempo",
@@ -181,7 +189,7 @@
    "title": "De la Espriella encabeza PMU por la toma del Éxito en Cartagena y envía mensaje a los secuestradores, que se entreguen: 'Soy garante de los rehenes'",
    "link": "https://www.eltiempo.com/colombia/otras-ciudades/de-la-espriella-encabeza-pmu-por-la-toma-del-exito-en-cartagena-y-envia-mensaje-a-los-secuestradores-que-se-entreguen-soy-garante-de-los-rehenes-3604006",
    "summary": "Junto a Jorge Mora, ministro de Defensa, y Dumek Turbay, alcalde, el presidente promete salir de Cartagena con los retenidos sanos y salvos hoy mismo.",
-   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/24/6b06461364b44.jpeg",
+   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/24/6b06461364b44.r_d.482-275-0.jpeg",
    "date": "2026-11-25T02:31:11+00:00"
   },
   {
@@ -201,76 +209,68 @@
    "date": "2026-11-25T02:03:41+00:00"
   },
   {
-   "source": "eltiempo",
-   "title": "Bucaramanga refuerza medidas de seguridad y cierra vías en los alrededores de Alcaldía y Gobernación de Santander tras carro bomba en Villavicencio",
-   "link": "https://www.eltiempo.com/colombia/santander/bucaramanga-refuerza-medidas-de-seguridad-y-cierra-vias-en-los-alrededores-de-alcaldia-y-gobernacion-de-santander-tras-carro-bomba-en-villavicencio-3603983",
-   "summary": "El cierre vial solo es nocturno y comenzó a regir desde este 24 de noviembre hasta nueva orden.",
-   "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/01/23/6973a1518c090.jpeg",
-   "date": "2026-11-25T00:53:59+00:00"
+   "source": "infobae",
+   "title": "El Viking quiere dinamitar el Metropolitano: el equipo con dos entrenadores para acabar con un Atlético de Madrid sin margen de error en Champions",
+   "link": "https://www.infobae.com/espana/deportes/2026/11/25/el-viking-quiere-dinamitar-el-metropolitano-el-equipo-con-dos-entrenadores-para-acabar-con-un-atletico-de-madrid-sin-margen-de-error-en-champions/",
+   "summary": "Los rojiblancos reciben al equipo noruego este miércoles en la competición europea",
+   "image": "https://www.infobae.com/resizer/v2/CBO3S7LEIRH6VF5UAID3RE4WWE?auth=f5a510b07d60a47f4426995df4cd09b9058d6bc4a1e00138caba25a4d61d4dc5&smart=true&width=6192&height=3483",
+   "date": "2026-11-25T07:12:26+00:00"
   },
   {
    "source": "infobae",
-   "title": "“Me dieron patadas en la cabeza”: el relato del hombre que fue víctima de un ataque homofóbico en Córdoba",
-   "link": "https://www.infobae.com/sociedad/policiales/2026/11/25/me-dieron-patadas-en-la-cabeza-el-relato-del-hombre-que-fue-victima-de-un-ataque-homofobico-en-cordoba/",
-   "summary": "Nicolás Maldonado, de 32 años, intentó intervenir en una discusión entre adolescentes. A raíz de esto, un grupo de menores lo golpeó en patota y lo insultó por su orientación sexual",
-   "image": "https://www.infobae.com/resizer/v2/6ZCBRYMYFRAHNPQQHTPDRHTQ2M.jpg?auth=473298c368452d22d1500c61649cdc77edd38ab006743079f18d6aecf77d13ab&smart=true&width=1920&height=1080",
-   "date": "2026-11-25T05:08:13+00:00"
+   "title": "Elevaron a juicio el crimen del expresidiario que fue noticia por pedir regresar a la cárcel para drogarse y tener sexo",
+   "link": "https://www.infobae.com/sociedad/policiales/2026/11/25/elevaron-a-juicio-el-crimen-del-expresidiario-que-fue-noticia-por-pedir-regresar-a-la-carcel-para-drogarse-y-tener-sexo/",
+   "summary": "La víctima pactó por teléfono un encuentro para comprar estupefacientes. Según la fiscalía, dos hermanos arribaron en un vehículo blanco, se pusieron a su altura y uno de ellos lo mató a balazos. La Justicia cree que fue una venganza por un robo ocurrido 24 horas antes",
+   "image": "https://www.infobae.com/resizer/v2/PSW7F6TYY5BITNIQGXY4RBKECU.jpg?auth=88de1e69948b8c885e33e857f73f73fe37508921f5c54d2de6cef770646cb15e&smart=true&width=1920&height=1080",
+   "date": "2026-11-25T07:09:57+00:00"
   },
   {
    "source": "infobae",
-   "title": "Tiene 90 años y vive solo hace más de seis décadas en una cueva de los cerros tucumanos: “Acá soy feliz, no me gusta el pueblo”",
-   "link": "https://www.infobae.com/sociedad/2026/11/25/tiene-90-anos-y-vive-solo-hace-mas-de-seis-decadas-en-una-cueva-de-los-cerros-tucumanos-aca-soy-feliz-no-me-gusta-el-pueblo/",
-   "summary": "Pedro Mamamí reside en una cueva ubicada en medio de las montañas de San Pedro de Colalao, en la provincia de Tucumán. En su juventud trabajaba de peón de campo. No tiene mujer ni hijos. Se conforma con la compañía de sus dos cabras",
-   "image": "https://www.infobae.com/resizer/v2/5ZUUUIKD4ZF3PAK6F4ZAY3CY7Y.jpg?auth=8ec795dda9dec15385c3e2486145b3d3d1f75437fcd40514cb7d817b775de66a&smart=true&width=1920&height=1080",
-   "date": "2026-11-25T05:07:03+00:00"
+   "title": "Elecciones generales 29-N, en directo: recta final de la campaña electoral y última hora de los candidatos",
+   "link": "https://www.infobae.com/espana/2026/11/25/elecciones-generales-29-n-en-directo-recta-final-de-la-campana-electoral-y-ultima-hora-de-los-candidatos/",
+   "summary": "Intxaurrondo entrevista hoy a Pedro Sánchez en TVE, mientras la del líder del PP, prevista para el viernes, sigue sin confirmación oficial. Ambos candidatos protagonizan además entrevistas con el youtuber Plex, en una jornada marcada también por el 25N.",
+   "image": "https://www.infobae.com/resizer/v2/PXRHDY337JDCFERIMQL6BJRCYA.png?auth=95d3a2e4f4bc8f16daa923312938b56af68f0c23f94caaf9798ecfe13383c877&smart=true&width=1536&height=1024",
+   "date": "2026-11-25T07:09:43+00:00"
   },
   {
    "source": "infobae",
-   "title": "Sinuano Noche: Resultado y números ganadores del sorteo de este martes 24 de noviembre de 2026",
-   "link": "https://www.infobae.com/colombia/2026/11/25/sinuano-noche-resultado-y-numeros-ganadores-del-sorteo-de-este-martes-24-de-noviembre-de-2026/",
-   "summary": "Cada sorteo es una nueva posibilidad. ¿Será uno de los afortunados de la noche?",
-   "image": "https://www.infobae.com/resizer/v2/H6H7QEJ52BA2XEVYTWT5RA6VLQ.png?auth=2b0e2bcc7839ac505c13c2cb87fe36202e998003f3916c1641f4fa7c4b15c6b7&smart=true&width=1920&height=1080",
-   "date": "2026-11-25T05:06:59+00:00"
+   "title": "Los nuevos espigones y barreras de la frontera de Ceuta alcanzarán los 500 metros: así serán las estructuras de El Tarajal y Benzú",
+   "link": "https://www.infobae.com/espana/2026/11/25/los-nuevos-espigones-y-barreras-de-la-frontera-de-ceuta-alcanzaran-los-500-metros-asi-seran-las-estructuras-de-el-tarajal-y-benzu/",
+   "summary": "El último Consejo de Ministros previo a las elecciones de este domingo 29 de noviembre aprobó este martes la reserva del espacio para llevar a cabo su construcción hasta marzo de 2027",
+   "image": "https://www.infobae.com/resizer/v2/4MZ62A5MQFDWFBSYIEEH6ASTJY.jpg?auth=c3fe81020f5afedcd877470a2f657071700c1af3d4e3f76f1e3890581fbf3b97&smart=true&width=1920&height=1280",
+   "date": "2026-11-25T07:09:04+00:00"
   },
   {
    "source": "infobae",
-   "title": "Miss Universo 2026 EN VIVO: Jennifer Barreto se corona Miss Universo 2026 y hace historia al convertirse en la primera madre en ganar el certamen",
-   "link": "https://www.infobae.com/peru/2026/11/23/en-vivo-miss-universo-2026-minuto-a-minuto-de-la-gran-final-y-coronacion-en-puerto-rico/",
-   "summary": "La representante de Puerto Rico se impuso en la gran final del certamen de belleza y marcó un hito al convertirse en la primera madre en conquistar la corona del Miss Universo. Su triunfo rompe precedentes en la historia del concurso y pone en el centro el avance hacia una competencia más inclusiva",
-   "image": "https://www.infobae.com/resizer/v2/35ZBBPEMTBFVVGOFIJHKQJFZRM.png?auth=9902d413b4503fdafaea13099f61669e05393e72005ac65c6b09c03e93ac4166&smart=true&width=1280&height=720",
-   "date": "2026-11-25T05:06:00+00:00"
+   "title": "Estas son las 20 películas que optan al Oscar a los mejores efectos visuales: de ‘La Odisea’ a ‘Dune. Parte Tres’ pasando por ‘Vengadores: Doomsday’",
+   "link": "https://www.infobae.com/espana/cultura/2026/11/25/estas-son-las-20-peliculas-que-optan-al-oscar-a-los-mejores-efectos-visuales-de-la-odisea-a-dune-parte-tres-pasando-por-vengadores-doomsday/",
+   "summary": "La Academia de Hollywood ha elegido una lista con los títulos que podrán ser seleccionados para votar en esta categoría",
+   "image": "https://www.infobae.com/resizer/v2/LFH5JKR4NNBS5JPHUAXUGUNOAA.png?auth=873d240b5e67d55ef630418452cf8eaeb2dfdefafbe483d8f03c080dd5c2d775&smart=true&width=1306&height=736",
+   "date": "2026-11-25T07:06:51+00:00"
   },
   {
    "source": "infobae",
-   "title": "El escritor japonés que desafió al Estado y se suicidó con un ritual samurái: el último acto de su revolución nacionalista",
-   "link": "https://www.infobae.com/historias/2026/11/25/el-escritor-japones-que-desafio-al-estado-y-se-suicido-con-un-ritual-samurai-el-ultimo-acto-de-su-revolucion-nacionalista/",
-   "summary": "El 25 de noviembre de 1970, Yukio Mishima tomó como rehén a un general, intentó convencer a los soldados de sublevarse y, al no lograrlo, se quitó la vida",
-   "image": "https://www.infobae.com/resizer/v2/HFQUJ72N2BCZJBE7JJHF5O5QHM.jpg?auth=7e318df13b0d3226b116f5bbec6f26c3ba58ca277d1bf90aec73415d20918622&smart=true&width=1920&height=1080",
-   "date": "2026-11-25T05:05:56+00:00"
+   "title": "El Sabah, un equipo estilo ONU para acabar con el Barça: tiene 16 nacionalidades en su plantilla, un entrenador de ‘¿Quién quiere ser millonario?’ y una ayuda del Estado",
+   "link": "https://www.infobae.com/espana/deportes/2026/11/25/el-sabah-un-equipo-estilo-onu-para-acabar-con-el-barca-tiene-16-nacionalidades-en-su-plantilla-un-entrenador-de-quien-quiere-ser-millonario-y-una-ayuda-del-estado/",
+   "summary": "El club azulgrana se enfrentarán al equipo azerbaiyano este miércoles en Champions",
+   "image": "https://www.infobae.com/resizer/v2/QGDU6MENX5GWRHHAWNGXPX72NI.JPG?auth=0978b854a3d49c8ed2a502abdc241e5b424a2aa3f7efebc21043b707dd17b4b4&smart=true&width=4870&height=2739",
+   "date": "2026-11-25T07:02:22+00:00"
   },
   {
    "source": "infobae",
-   "title": "El retorno del “no te metas” en el voto de Argentina sobre una resolución de la ONU para condenar la violencia contra las mujeres",
-   "link": "https://www.infobae.com/opinion/2026/11/25/el-retorno-del-no-te-metas-en-el-voto-de-argentina-sobre-una-resolucion-de-la-onu-para-condenar-la-violencia-contra-las-mujeres/",
-   "summary": "El 17 de noviembre Argentina se abstuvo de votar a favor de incrementar los esfuerzos para detener la violencia contra las mujeres y las niñas. Las leyes nacionales, los tratados internacionales, la tipificación penal y la vanguardia normativa son avances que forman parte de la Constitución Nacional",
-   "image": "https://www.infobae.com/resizer/v2/DZ35OGUDVJGLTN6QDGM2L5UP3Q.jpg?auth=a968f0d9ef26d811d4030e23a889ae0eb5ef1852fb5bfe4ba751b199f5aa3c79&smart=true&width=5472&height=3648",
-   "date": "2026-11-25T05:05:37+00:00"
+   "title": "Cara y cruz de los baños de hielos después del ejercicio: alivian las agujetas, pero frenan el crecimiento de los músculos",
+   "link": "https://www.infobae.com/espana/2026/11/25/cara-y-cruz-de-los-banos-de-hielos-despues-del-ejercicio-alivian-las-agujetas-pero-frenan-el-crecimiento-de-los-musculos/",
+   "summary": "Los baños helados pueden tener distintos beneficios y contraindicaciones para la salud a corto y medio plazo",
+   "image": "https://www.infobae.com/resizer/v2/QOF67A7CVJFCLIUOWVO7BXAJTA.png?auth=d11d7ccabf60cf571dbfeb5ffb52ba57a92f1e1fe3eab354e2597a712b392d43&smart=true&width=2752&height=1536",
+   "date": "2026-11-25T07:02:14+00:00"
   },
   {
    "source": "infobae",
-   "title": "Gaspard Ulliel: del niño tímido marcado por una cicatriz en la cara al estrellato en el cine francés y tragedia en los Alpes",
-   "link": "https://www.infobae.com/historias/2026/11/25/gaspard-ulliel-del-nino-timido-marcado-por-una-cicatriz-en-la-cara-al-estrellato-en-el-cine-frances-y-tragedia-en-los-alpes/",
-   "summary": "Este 25 de noviembre habría cumplido 42 años. Ganador de dos premios César, interpretó a Hannibal Lecter y a Yves Saint Laurent, fue imagen de Chanel y construyó una carrera en ascenso que quedó interrumpida por un accidente de esquí en enero de 2022. Murió a los 37 años en la nieve de Saboya…",
-   "image": "https://www.infobae.com/resizer/v2/EX44SRQLXJBFBGCSNSH2UE472M.jpg?auth=57cb31f0e29f1e5942d904971e33c9fc17077c5566e18c28978535d90727217d&smart=true&width=1920&height=1080",
-   "date": "2026-11-25T05:05:20+00:00"
-  },
-  {
-   "source": "infobae",
-   "title": "El truco para que tu Nochebuena sobreviva después de Navidad",
-   "link": "https://www.infobae.com/mexico/2026/11/25/el-truco-para-que-tu-nochebuena-sobreviva-despues-de-navidad/",
-   "summary": "La Nochebuena puede sobrevivir después de Navidad y volver a teñirse de rojo al año siguiente si recibe cuidados acordes con su ciclo natural",
-   "image": "https://www.infobae.com/resizer/v2/NQ25RBNBYRCTFATZLNQFQ4H4GE.png?auth=6e903fa0886689236cb022a2bdf4989fe7c9d53304d83f44311aa75304f52d86&smart=true&width=2752&height=1536",
-   "date": "2026-11-25T05:05:00+00:00"
+   "title": "Transportaba más de 25 kilos de cocaína debajo de un colchón y fue detenido en Tucumán",
+   "link": "https://www.infobae.com/sociedad/policiales/2026/11/25/transportaba-mas-de-25-kilos-de-cocaina-debajo-de-un-colchon-y-fue-detenido-en-tucuman/",
+   "summary": "La Justicia federal intervino de inmediato y ordenó retener el camión, el acoplado y los efectos personales del chofer de 56 años",
+   "image": "https://www.infobae.com/resizer/v2/BIWFBRUUCNCWLMFSUCOAIN7AUI.jpg?auth=a64af124bd81bbfdd2dd8e1a4573dbc676c5b02c002287d3ed010416e5f4fc4e&smart=true&width=1919&height=1195",
+   "date": "2026-11-25T07:02:12+00:00"
   }
  ]
 }
