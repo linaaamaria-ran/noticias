@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T09:51:22.458423+00:00",
+ "generated_at": "2026-11-28T10:50:08.105821+00:00",
  "sources": [
   {
    "id": "aciprensa",
@@ -82,6 +82,30 @@
  "items": [
   {
    "source": "semana",
+   "title": "Así fue el saqueo a la SAE en el gobierno Petro. Crearon Activos por Colombia para apropiarse de cerca de $6.000 millones",
+   "link": "https://www.semana.com/nacion/articulo/asi-fue-el-saqueo-a-la-sae-en-el-gobierno-petro-crearon-activos-por-colombia-para-apropiarse-de-cerca-de-6000-millones/202627/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/RWPUN5BLV5BTDFV22P476ZCR4U.jpg?auth=f7c64c938f98c39e9dc372a574b8be223bbe4833250fcf93d02a65424015ebed&smart=true&width=2000&height=1125",
+   "date": "2026-11-28T10:09:27+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Colombia, entre los países más atacados por ciberdelincuentes en América Latina",
+   "link": "https://www.semana.com/tecnologia/articulo/colombia-entre-los-paises-mas-atacados-por-ciberdelincuentes-en-america-latina/202652/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/5PQJQY6NIVDCLE4M3ZJMNBAKNE.jpg?auth=ed6a12e5244d29c3b2d2ce474ad00c91234e68b72d19d24718d8780ec5328012&smart=true&width=2000&height=1125",
+   "date": "2026-11-28T09:48:52+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "SEMANA revela detalles del asalto en el Éxito de Cartagena: así se habría planeado el aparatoso robo",
+   "link": "https://www.semana.com/nacion/cartagena/articulo/semana-revela-detalles-del-asalto-en-el-exito-de-cartagena-asi-se-habria-planeado-el-aparatoso-robo/202618/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/LXOZ2TGEUNEWLA7CXTHT6ZK4DI.jpg?auth=50114ceddc269895da44e02f57ec2fae9f3537abb4922fc67d837d977ba45701&smart=true&width=2000&height=1125",
+   "date": "2026-11-28T09:47:18+00:00"
+  },
+  {
+   "source": "semana",
    "title": "“Juegos sexuales o lo que ella quiera”: así cayó en España el exgobernador Carlos Caicedo. SEMANA reveló investigación clave",
    "link": "https://www.semana.com/nacion/articulo/juegos-sexuales-o-lo-que-ella-quiera-asi-cayo-en-espana-el-exgobernador-carlos-caicedo-semana-revelo-investigacion-clave/202620/",
    "summary": "",
@@ -119,30 +143,6 @@
    "summary": "",
    "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/UTIX2PKW6VGUJGN7PWE23EZDBA.JPG?auth=cf44c7d950d446f74bcf2158d84f522bdf2f53f19e0c7c4c7b67849785e3b8bb&smart=true&width=4130&height=2501",
    "date": "2026-11-28T09:33:00+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Tormenta en el petrismo por el aterrizaje de Claudia López: la decisión habría sido una imposición de Gustavo Petro",
-   "link": "https://www.semana.com/politica/articulo/tormenta-en-el-petrismo-por-el-aterrizaje-de-claudia-lopez-la-decision-habria-sido-una-imposicion-de-gustavo-petro/202627/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/MP2LKAIKRZFHVFZGCQDYADYSZE.jpeg?auth=9eb84c9a24c9d4ddec1484f552c5d2bcb9e9492b852ed6313fcdee3ad1a5fc6b&smart=true&width=1600&height=900",
-   "date": "2026-11-28T08:36:27+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "SEMANA revela detalles del quiebre entre De La Espriella y Lafaurie: los recursos del Fondo Nacional del Ganado están bajo la lupa",
-   "link": "https://www.semana.com/nacion/articulo/semana-revela-detalles-del-quiebre-entre-de-la-espriella-y-lafaurie-los-recursos-del-fondo-nacional-del-ganado-estan-bajo-la-lupa/202628/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/D2TRAGKQAFBXHKM42W6DD244GM.jpg?auth=fc57aa221861ba3d4e5f8a6003c848aba1170a410fc15b71fc25539f0d3fe8de&smart=true&width=2000&height=1125",
-   "date": "2026-11-28T07:53:28+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "“Plan Dominó y la Nueva Alianza”: SEMANA revela los detalles del pacto criminal para asesinar a guardianes del Inpec",
-   "link": "https://www.semana.com/nacion/articulo/plan-domino-y-la-nueva-alianza-semana-revela-los-detalles-del-pacto-criminal-para-asesinar-a-guardianes-del-inpec/202647/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/7S664L5BH5H3LAZQBGEVLLWMQ4.jpg?auth=65efed5798bd3ab22b30774c1f91b741a5159c460072c8bfb80274497c33d428&smart=true&width=2000&height=1125",
-   "date": "2026-11-28T07:28:47+00:00"
   },
   {
    "source": "eltiempo",
@@ -210,67 +210,67 @@
   },
   {
    "source": "infobae",
-   "title": "La jornada de reflexión de las elecciones generales, en directo: Feijóo acudirá a Ceuta este sábado para cumplir un compromiso con Vivas y mostrar “apoyo y solidaridad” a la ciudad",
-   "link": "https://www.infobae.com/espana/2026/11/28/la-jornada-de-reflexion-de-las-elecciones-generales-en-directo-los-planes-de-los-candidatos-a-la-presidencia-el-dia-antes-de-votar/",
-   "summary": "Este sábado ya no se puede hacer campaña para el 29-N, así que los políticos aprovechan el día para descansar antes de la jornada del domingo",
-   "image": "https://www.infobae.com/resizer/v2/4RQATQW34JHB3KGRUSDNN732BM.jpg?auth=d9c0dabbe6445d0b0a179bfa2116a04b724e677d0023d1aeb2ad0c97ef961e67&smart=true&width=1920&height=1080",
-   "date": "2026-11-28T09:48:43+00:00"
+   "title": "Denis Villeneuve admite que se sintió decepcionado al ver que ‘Vengadores: Doomsday’ se estrenaría el mismo día que ‘Dune 3′: “Acepto mi destino y rezo a los dioses del cine”",
+   "link": "https://www.infobae.com/espana/cultura/2026/11/28/denis-villeneuve-admite-que-se-sintio-decepcionado-al-ver-que-vengadores-doomsday-se-estrenaria-el-mismo-dia-que-dune-3-acepto-mi-destino-y-rezo-a-los-dioses-del-cine/",
+   "summary": "Ambas producciones llegarán a cines el próximo 18 de diciembre, en un fenómeno que no se producía desde ‘Barbie’ y ‘Oppenheimer’",
+   "image": "https://www.infobae.com/resizer/v2/NKH6JHFWQ5FWBIIXXW5TVPZJJU.jpg?auth=0f2411189f19691d20f977acd2c17864c4e18e65e570ee68ea6c671eca6537a2&smart=true&width=992&height=556",
+   "date": "2026-11-28T10:44:59+00:00"
   },
   {
    "source": "infobae",
-   "title": "'Pensamientos reflexivos', el nuevo cómic de Snider que recoge visualmente sus pesadillas",
-   "link": "https://www.infobae.com/espana/agencias/2026/11/28/pensamientos-reflexivos-el-nuevo-comic-de-snider-que-recoge-visualmente-sus-pesadillas/",
-   "summary": "",
-   "image": null,
-   "date": "2026-11-28T09:46:50+00:00"
+   "title": "Vladimir Putin reforzó el arsenal nuclear ruso y presentó un nuevo submarino atómico con misiles hipersónicos",
+   "link": "https://www.infobae.com/america/mundo/2026/11/28/putin-reforzo-el-arsenal-nuclear-ruso-y-presento-un-nuevo-submarino-atomico-con-misiles-hipersonicos/",
+   "summary": "La nave de la clase Yasen-M fue entregada durante una ceremonia realizada en los astilleros de Severodvinsk, situados en Arjánguelsk. El “Perm”, bautizado en referencia a una ciudad de los Urales, será asignado a la Flota del Pacífico",
+   "image": "https://www.infobae.com/resizer/v2/SM4IUGZP3ZH4JFW6EGYMNSCXZE.JPG?auth=527c6a51d208deef423ac3c5b3c2254b043e3db237825ed98e422729f982f8cc&smart=true&width=4872&height=3157",
+   "date": "2026-11-28T10:42:01+00:00"
   },
   {
    "source": "infobae",
-   "title": "Edomex tendrá bajas temperaturas este sábado por primera tormenta invernal: alertan por heladas y aguanieve",
-   "link": "https://www.infobae.com/mexico/2026/11/28/edomex-tendra-bajas-temperaturas-este-sabado-por-primera-tormenta-invernal-alertan-por-heladas-y-aguanieve/",
-   "summary": "La masa de aire ártico mantendrá el descenso de temperaturas en el Estado de México durante este sábado 28 de noviembre, mientras continuarán las lluvias fuertes en el sur de la entidad",
-   "image": "https://www.infobae.com/resizer/v2/OXMHGIW5UZFTBOO6KWPOCQANNI.jpg?auth=68de6bedcb93aef8242260dfd0dff7c59b05213d8f630bef4d1145836f2c778d&smart=true&width=1920&height=1080",
-   "date": "2026-11-28T09:46:35+00:00"
+   "title": "¿Ahora sí será invitada? Majo Aguilar reacciona al compromiso de su primo Leonardo",
+   "link": "https://www.infobae.com/mexico/2026/11/28/ahora-si-sera-invitada-majo-aguilar-reacciona-al-compromiso-de-su-primo-leonardo/",
+   "summary": "A pesar de haber crecido junto a sus primos, la cantante no fue requerida en la boda civil de Ángela Aguilar y Christian Nodal en julio de 2024",
+   "image": "https://www.infobae.com/resizer/v2/NCCWFWUUMZBHRCBWSP7FEBX6MY.jpg?auth=0c04e559c3ca731deb859bbaf2d96d9fc90a283f4a63b7d7c42486ac8f173d28&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T10:37:53+00:00"
   },
   {
    "source": "infobae",
-   "title": "Descubren un cuello de un titanosaurio en Lleida: \"Será una nueva especie seguro\"",
-   "link": "https://www.infobae.com/espana/agencias/2026/11/28/descubren-un-cuello-de-un-titanosaurio-en-lleida-sera-una-nueva-especie-seguro/",
-   "summary": "",
-   "image": null,
-   "date": "2026-11-28T09:46:34+00:00"
+   "title": "Perú: el pronóstico del tiempo para Lima este 28 de noviembre",
+   "link": "https://www.infobae.com/peru/2026/11/28/peru-el-pronostico-del-tiempo-para-lima-este-28-de-noviembre/",
+   "summary": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "image": "https://www.infobae.com/resizer/v2/HT5VVCX3UBG77GPOPTCQV3HWUA.png?auth=99791f4aeee740839d47f39ec1f359753350ba904d82507d36e7c3aabfce6484&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T10:33:07+00:00"
   },
   {
    "source": "infobae",
-   "title": "La restauración frena las \"reservas fantasma\", práctica que deja pérdidas de hasta el 20 %",
-   "link": "https://www.infobae.com/espana/agencias/2026/11/28/la-restauracion-frena-las-reservas-fantasma-practica-que-deja-perdidas-de-hasta-el-20/",
-   "summary": "",
-   "image": null,
-   "date": "2026-11-28T09:46:18+00:00"
+   "title": "Clima en Perú: temperatura y probabilidad de lluvia para Piura este 28 de noviembre",
+   "link": "https://www.infobae.com/peru/2026/11/28/clima-en-peru-temperatura-y-probabilidad-de-lluvia-para-piura-este-28-de-noviembre/",
+   "summary": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "image": "https://www.infobae.com/resizer/v2/PMQKXVGOO5BW5NJUNG3CIIC3OI.png?auth=2edf28dcf9b6cf560f09c4ed32ccf612e4c0e91896fe7a981e1be263780ace7c&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T10:32:47+00:00"
   },
   {
    "source": "infobae",
-   "title": "Estos son los ganadores del Sorteo 1 de Super Once del 28 noviembre",
-   "link": "https://www.infobae.com/espana/2026/11/28/estos-son-los-ganadores-del-sorteo-1-de-super-once-del-28-noviembre/",
-   "summary": "Como cada sábado, aquí están los números ganadores del sorteo dado a conocer por Juegos Once",
-   "image": "https://www.infobae.com/resizer/v2/PPFHQD7ONZCW5DHK2KQEM5XRCY.jpg?auth=7563789ed01319b51c40432578d3fab16da6f51f84c84520b021889f1d38cf5f&smart=true&width=1920&height=1080",
-   "date": "2026-11-28T09:46:09+00:00"
+   "title": "Prepárase antes de salir: Este es el pronóstico del clima en Huancayo este 28 de noviembre",
+   "link": "https://www.infobae.com/peru/2026/11/28/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-huancayo-este-28-de-noviembre/",
+   "summary": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "image": "https://www.infobae.com/resizer/v2/34DP4TQ5CBEOBGFYBZUWLOZG7Q.png?auth=ab58a9abfe8ecc160c4543d73c25b89eb7f1a954de16bb354d73519a4f0922d4&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T10:32:30+00:00"
   },
   {
    "source": "infobae",
-   "title": "Presidente militar birmano visita Vietnam en su primer viaje tras el fallo por genocidio",
-   "link": "https://www.infobae.com/america/agencias/2026/11/28/presidente-militar-birmano-visita-vietnam-en-su-primer-viaje-tras-el-fallo-por-genocidio/",
-   "summary": "",
-   "image": null,
-   "date": "2026-11-28T09:46:00+00:00"
+   "title": "Clima en Iquitos: temperatura y probabilidad de lluvia para este sábado 28 de noviembre",
+   "link": "https://www.infobae.com/peru/2026/11/28/clima-en-iquitos-temperatura-y-probabilidad-de-lluvia-para-este-sabado-28-de-noviembre/",
+   "summary": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "image": "https://www.infobae.com/resizer/v2/7S46NSNEG5AU3IELXLWPM7RHGY.png?auth=3b0d7c420a0abdcbecb4297d45d3073a41ae3db82f496234636cce0904924724&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T10:32:11+00:00"
   },
   {
    "source": "infobae",
-   "title": "La caja negra del Iryo descarta fallos previos en el tren que supongan \"precursores del accidente\"",
-   "link": "https://www.infobae.com/espana/agencias/2026/11/28/la-caja-negra-del-iryo-descarta-fallos-previos-en-el-tren-que-supongan-precursores-del-accidente/",
-   "summary": "",
-   "image": "https://www.infobae.com/resizer/v2/ZI4EXUQZEZGT5J2JUARDEZSMKE.jpg?auth=62a04ad33145680dd30a92426817ae42b2f6cf802d1dfabb18b442c10e50d37f&smart=true&width=1600&height=1067",
-   "date": "2026-11-28T09:45:56+00:00"
+   "title": "Clima en Cuzco: temperatura y probabilidad de lluvia para este sábado 28 de noviembre",
+   "link": "https://www.infobae.com/peru/2026/11/28/clima-en-cuzco-temperatura-y-probabilidad-de-lluvia-para-este-sabado-28-de-noviembre/",
+   "summary": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo en Perú",
+   "image": "https://www.infobae.com/resizer/v2/6X7KCCGX6NHOXAAEUH6OS47N2Q.png?auth=ad36eab3c9854178cbae46a8c6b7021c405c793c0482c3911cc15dfad4831bb7&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T10:31:52+00:00"
   }
  ]
 }
