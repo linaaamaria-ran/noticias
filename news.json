@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T02:50:19.318450+00:00",
+ "generated_at": "2026-11-28T03:54:04.449876+00:00",
  "sources": [
   {
    "id": "aciprensa",
@@ -82,67 +82,67 @@
  "items": [
   {
    "source": "semana",
+   "title": "Así quedaron los alumbrados de Navidad en Medellín: los barrios iluminados y la fecha hasta cuándo estarán",
+   "link": "https://www.semana.com/turismo/articulo/asi-quedaron-los-alumbrados-de-navidad-en-medellin-los-barrios-iluminados-y-la-fecha-hasta-cuando-estaran/202650/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/XNODEFAAPJDDNCD6KV4J4Q2ZT4.jpg?auth=a22fa8f278184a22192a16bbb044b7613a8f163edebe224e848e6b301ebf44ca&smart=true&width=2048&height=1152",
+   "date": "2026-11-28T03:34:50+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Apple y OpenAI pasan de aliados a rivales: la batalla judicial que podría cambiar el mercado tecnológico",
+   "link": "https://www.semana.com/tecnologia/articulo/apple-y-openai-pasan-de-aliados-a-rivales-la-batalla-judicial-que-podria-cambiar-el-mercado-tecnologico/202642/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/IGQTUIEBD5BXFIN2UZQDNNKO7A.jpg?auth=e64d1c5618ca55a5ae6c4af5aefb38855ae898c4eec90a40f2ac5f80fa11cc45&smart=true&width=1280&height=720",
+   "date": "2026-11-28T03:34:42+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "“Es la primera vez que me da”: Johanna Fadul preocupa por su estado de salud en medio de su embarazo",
+   "link": "https://www.semana.com/gente/articulo/es-la-primera-vez-que-me-da-johanna-fadul-preocupa-por-su-estado-de-salud-en-medio-de-su-embarazo/202659/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/DQE4KDMU7JFFNB5GXKCBJQMYTI.png?auth=03cb7bf2f292b9e72d36f135ffdd60babc13571087b16d42a9a141600a20597b&smart=true&width=1280&height=720",
+   "date": "2026-11-28T03:29:59+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Latinoamérica se llena de carros eléctricos: la cifra que podría alcanzar antes de terminar 2026",
+   "link": "https://www.semana.com/vehiculos/articulo/latinoamerica-se-llena-de-carros-electricos-la-cifra-que-podria-alcanzar-antes-de-terminar-2026/202654/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/OW5IAF5X7NAMTIMSU2IVMNGAVQ.jpg?auth=299772a56ceaf57ff17e6ca21fc9007ba19e5d8592a2caca6718bf637084a815&smart=true&width=8393&height=5595",
+   "date": "2026-11-28T02:58:42+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Comandante del operativo del Éxito de Cartagena contó qué pasó cuando iban a “tratar de ingresar” a mediodía",
+   "link": "https://www.semana.com/nacion/cartagena/articulo/comandante-del-operativo-del-exito-de-cartagena-conto-que-paso-cuando-iban-a-tratar-de-ingresar-a-mediodia/202642/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/2FH7PNHUHNHJZHSJ7AE5J5VE5M.jpg?auth=0278108a59eae43c8e04935c6705192e053a125dabbdbc70597e2905af3adf92&smart=true&width=1280&height=720",
+   "date": "2026-11-28T02:52:42+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Guía práctica para cuidar una suculenta en casa: el truco para mantenerla sana y evitar que se marchite",
+   "link": "https://www.semana.com/sostenible/medio-ambiente/articulo/guia-practica-para-cuidar-una-suculenta-en-casa-el-truco-para-mantenerla-sana-y-evitar-que-se-marchite/202620/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/WHY5K66XDJD7XLJ2LYLXSV4JWE.jpg?auth=138dcb60b9a4efc880dfdd4b86c1e6c859f5f09e704678d38c534a93848fb9a4&smart=true&width=2121&height=1414",
+   "date": "2026-11-28T02:49:20+00:00"
+  },
+  {
+   "source": "semana",
+   "title": "Gobierno oficializa el nombramiento de Alberto Vergara como presidente de Fiduprevisora",
+   "link": "https://www.semana.com/economia/macroeconomia/articulo/gobierno-oficializa-el-nombramiento-de-alberto-vergara-como-presidente-de-fiduprevisora/202626/",
+   "summary": "",
+   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/CR2ZOQC6NFH2RAMPHETCYUPPZE.png?auth=9facf72cd7cca087d8836a40304ff352c2411e2174d08e1be87ff52d71db441d&smart=true&width=1280&height=720",
+   "date": "2026-11-28T02:48:26+00:00"
+  },
+  {
+   "source": "semana",
    "title": "“Déjenla allá”: la polémica reacción de Nicolás Arrieta tras conocerse el estado de salud de Epa Colombia en prisión",
    "link": "https://www.semana.com/gente/articulo/dejenla-alla-la-polemica-reaccion-de-nicolas-arrieta-tras-conocerse-el-estado-de-salud-de-epa-colombia-en-prision/202605/",
    "summary": "",
    "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/ZUZ7PMBDKNETXKLFRQ5DPELAPE.jpg?auth=2dabb532c653fa19b6eb8f4fc105185e7f395405bdcbdb097a78b8167514936e&smart=true&width=3264&height=1858",
    "date": "2026-11-28T02:31:05+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Carlos Antonio Vélez da detalles de sus 50 años de matrimonio: Perú, Libertadores, Millonarios y Santa Fe",
-   "link": "https://www.semana.com/deportes/articulo/carlos-antonio-velez-da-detalles-de-sus-50-anos-de-matrimonio-peru-libertadores-millonarios-y-santa-fe/202616/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/JFTO5FFGU5EPXBOSGP4UBJ7ADI.jpg?auth=6105c408b5b16faa0178b8ff1eb72e6c80fc9c020cc5af7525c5f448172c720d&smart=true&width=1280&height=720",
-   "date": "2026-11-28T02:29:16+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "El Pacífico registra una anomalía sin precedentes que enciende las alarmas: advierten que es la “más activa de su historia”",
-   "link": "https://www.semana.com/tecnologia/articulo/el-pacifico-registra-una-anomalia-sin-precedentes-que-enciende-las-alarmas-advierten-que-es-la-mas-activa-de-su-historia/202658/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/QHQ6H5KAYBDDBFFU6CDXCGIY2M.jpg?auth=7430f231319e741d556ced2e917fb29d5d92df21b82ca311048510f302b1db9f&smart=true&width=2102&height=1426",
-   "date": "2026-11-28T02:17:58+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Presidente publicó video en la Casa de Nariño donde no se ve el retrato de Gustavo Petro en medio de polémica",
-   "link": "https://www.semana.com/confidenciales/articulo/presidente-publico-video-en-la-casa-de-narino-donde-no-se-ve-el-retrato-de-gustavo-petro-en-medio-de-polemica/202638/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/AASUXVX3ORBX7HJSGQB3MXK36Q.jpg?auth=9a2e72b25a26bf0e85e70adcb0753d16cea459c49b6a2287f0b60f1cfa5518ce&smart=true&width=1280&height=720",
-   "date": "2026-11-28T02:05:38+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "¿Le llegó una fotomulta? Revise estos detalles antes de pagar para evitar cobros que no corresponden",
-   "link": "https://www.semana.com/vehiculos/articulo/le-llego-una-fotomulta-revise-estos-detalles-antes-de-pagar-para-evitar-cobros-que-no-corresponden/202659/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/T7PNHY6L2ZD5RJSWDNGDLKHTEY.jpg?auth=69dc327d9ac29e23937bf6fb05a90b92639d994c47f4bbc75dc467f538a6bef7&smart=true&width=1920&height=1080",
-   "date": "2026-11-28T02:02:59+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Giro inesperado en la carrera de Christian Nodal: la batalla legal contra su propio padre por el uso de su nombre",
-   "link": "https://www.semana.com/gente/articulo/giro-inesperado-en-la-carrera-de-christian-nodal-la-batalla-legal-contra-su-propio-padre-por-el-uso-de-su-nombre/202617/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/KPB7U5YTSJASFHDWRS5CJJN5PA.webp?auth=e9e0c1c4433d116eee12127feac3f957c466b9c92875e87fd236bd020d73a197&smart=true&width=1920&height=1080",
-   "date": "2026-11-28T01:56:17+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Abelardo De La Espriella recibió “la bendición más grande” por primera vez en la Casa de Nariño",
-   "link": "https://www.semana.com/confidenciales/articulo/abelardo-de-la-espriella-recibio-la-bendicion-mas-grande-por-primera-vez-en-la-casa-de-narino/202629/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/3OTPST34M5HZZORPZEG7ES6GDQ.jpg?auth=41abcb7ec4765923ca5eb51cd5bbe592408e1a5d45dafce233f4cf75e4119952&smart=true&width=1280&height=720",
-   "date": "2026-11-28T01:46:29+00:00"
-  },
-  {
-   "source": "semana",
-   "title": "Estados Unidos ya tiene su primer misil hipersónico: una “capacidad de combate” que podría emplearse en cualquier lugar del mundo",
-   "link": "https://www.semana.com/tecnologia/articulo/estados-unidos-ya-tiene-su-primer-misil-hipersonico-una-capacidad-de-combate-que-podria-emplearse-en-cualquier-lugar-del-mundo/202629/",
-   "summary": "",
-   "image": "https://semana-semana-prod.web.arc-cdn.net/resizer/v2/3QLV2OLQQRGWJAWFNAWUYJKOYM.jpg?auth=78f8a605b440ce23e371d1f0eeb8b2967b5cd2c90ac00d55dbba6b1f258ca552&smart=true&width=1280&height=750",
-   "date": "2026-11-28T01:36:29+00:00"
   },
   {
    "source": "eltiempo",
@@ -210,67 +210,67 @@
   },
   {
    "source": "infobae",
-   "title": "Políticos reaccionaron a datos del Dane sobre el número de personas que ganaron un salario mínimo entre enero y septiembre 2026: “Se les advirtió”",
-   "link": "https://www.infobae.com/colombia/2026/11/28/politicos-reaccionaron-a-datos-del-dane-sobre-el-numero-de-personas-que-ganaron-un-salario-minimo-entre-enero-y-septiembre-2026-se-les-advirtio/",
-   "summary": "La ministra del Trabajo, Natalia Eugenia López Fuentes, indicó que tres de cada cuatro trabajadores informales ganan menos de este monto",
-   "image": "https://www.infobae.com/resizer/v2/37XYRVGEC5FKXFD4C763LWLZRM.JPG?auth=d2d7ee6097284c9f5bdc9a7049e683862a5d7bb21fac6e575e2cea50ef95672c&smart=true&width=4891&height=3420",
-   "date": "2026-11-28T02:47:57+00:00"
+   "title": "Caso INE: FGR catea cuatro propiedades vinculadas al esquema de corrupción y halla urnas, mamparas y contratos",
+   "link": "https://www.infobae.com/mexico/2026/11/28/caso-ine-fgr-catea-cuatro-propiedades-vinculadas-al-esquema-de-corrupcion-y-halla-urnas-mamparas-y-contratos/",
+   "summary": "La fiscal Ernestina Godoy detalló el avance de las investigaciones contra el esquema de corrupción detectado en el instituto electoral",
+   "image": "https://www.infobae.com/resizer/v2/TIJKAJ3TIBEC3OALMRPCFZ2CFU.png?auth=2627976859af18454168cd44801c68a3ca031de153c85c1f8c6b59e41cf127fd&smart=true&width=973&height=542",
+   "date": "2026-11-28T03:50:08+00:00"
   },
   {
    "source": "infobae",
-   "title": "‘El Último Pogo’ de La Pestilencia: invitados, horarios y todo lo que debe saber del espectáculo en el Coliseo Medplus",
-   "link": "https://www.infobae.com/colombia/2026/11/28/el-ultimo-pogo-de-la-pestilencia-invitados-horarios-y-todo-lo-que-debe-saber-del-espectaculo-en-el-coliseo-medplus/",
-   "summary": "Casi cuatro horas de repertorio, un nuevo sencillo y la participación de unos 60 músicos invitados son algunas de las novedades que la agrupación comandada por Dilson Díaz tiene planeadas para cerrar su trayectoria de cuatro décadas",
-   "image": "https://www.infobae.com/resizer/v2/Q3NFKTZMNJHPLJXQBLLOPZ2ZYY.jpg?auth=9c02eee92f6d98298a1e0fe489c56724a09e78d0c768df146c387ef0f7ecc2c5&smart=true&width=2048&height=1367",
-   "date": "2026-11-28T02:47:04+00:00"
+   "title": "Rocambole: “La Academia de Letras le debe un reconocimiento al Indio Solari como el gran poeta de los últimos tiempos”",
+   "link": "https://www.infobae.com/cultura/2026/11/28/rocambole-la-academia-de-letras-le-debe-un-reconocimiento-al-indio-solari-como-el-gran-poeta-de-los-ultimos-tiempos/",
+   "summary": "El artista visual de Patricio Rey y sus Redonditos de Ricota presentó en Chivilcoy la reedición de su libro, repasó los orígenes de la contracultura platense y rindió homenaje a su ilustre amigo y compañero",
+   "image": "https://www.infobae.com/resizer/v2/YA5JCP63WBG3VBUIJRPO3KJ5M4.jpg?auth=37cede1420a009fb81c0cb591d4e65d1c13c2289e15110ba9a45ab7b6f97d073&smart=true&width=3984&height=2656",
+   "date": "2026-11-28T03:50:00+00:00"
   },
   {
    "source": "infobae",
-   "title": "Ecuador cierra fronteras terrestres para impedir ingreso de extranjeros durante elecciones",
-   "link": "https://www.infobae.com/america/agencias/2026/11/28/ecuador-cierra-fronteras-terrestres-para-impedir-ingreso-de-extranjeros-durante-elecciones/",
+   "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Sevilla este 28 de noviembre",
+   "link": "https://www.infobae.com/espana/2026/11/28/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-sevilla-este-28-de-noviembre/",
+   "summary": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+   "image": "https://www.infobae.com/resizer/v2/D5M4UOHTJJDYVKGN2PM7G2CDAE.png?auth=e74057fdd387b4050eb9331ee303e8d3f3d20ca3b0adf3aeffeddba5e656eb2e&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T03:46:56+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Clima en Madrid: temperatura y probabilidad de lluvia para este sábado 28 de noviembre",
+   "link": "https://www.infobae.com/espana/2026/11/28/clima-en-madrid-temperatura-y-probabilidad-de-lluvia-para-este-sabado-28-de-noviembre/",
+   "summary": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
+   "image": "https://www.infobae.com/resizer/v2/5WNGZ3LBVBDMZOTA4JODFZB6HI.png?auth=bb2d66c14385e6d7eee2237eee93d2ced06e7974548fa46b963e43579b31c11c&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T03:46:37+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Resultado Sinuano Noche hoy 27 de noviembre",
+   "link": "https://www.infobae.com/colombia/2026/11/28/resultado-sinuano-noche-hoy-27-de-noviembre/",
+   "summary": "Los aficionados de esta lotería pueden verificar si su jugada resultó premiada en el último sorteo",
+   "image": "https://www.infobae.com/resizer/v2/H6H7QEJ52BA2XEVYTWT5RA6VLQ.png?auth=2b0e2bcc7839ac505c13c2cb87fe36202e998003f3916c1641f4fa7c4b15c6b7&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T03:46:15+00:00"
+  },
+  {
+   "source": "infobae",
+   "title": "Albanese dice que no la dejan salir del aeropuerto en Costa Rica, pese a orden judicial",
+   "link": "https://www.infobae.com/america/agencias/2026/11/28/albanese-dice-que-no-la-dejan-salir-del-aeropuerto-en-costa-rica-pese-a-orden-judicial/",
    "summary": "",
    "image": null,
-   "date": "2026-11-28T02:46:15+00:00"
+   "date": "2026-11-28T03:45:20+00:00"
   },
   {
    "source": "infobae",
-   "title": "Trump inaugurará planta que proveé chips a Nvidia, en medio del escándalo de Jensen Huang",
-   "link": "https://www.infobae.com/america/agencias/2026/11/28/trump-inaugurara-planta-que-provee-chips-a-nvidia-en-medio-del-escandalo-de-jensen-huang/",
-   "summary": "",
-   "image": null,
-   "date": "2026-11-28T02:45:58+00:00"
+   "title": "Comisión del INE aprueba mantener reparto de plurinominales por partido y no por coalición para elección de 2027",
+   "link": "https://www.infobae.com/mexico/2026/11/28/comision-del-ine-aprueba-mantener-reparto-de-plurinominales-por-partido-y-no-por-coalicion-para-eleccion-de-2027/",
+   "summary": "Pese a que expertos y partidos de oposición no querían que se mantuviera la fórmula vigente, en el árbitro electoral decidieron lo contrario",
+   "image": "https://www.infobae.com/resizer/v2/ZKA54QJS5RDF3FKHVS3PYCXSBI.jpg?auth=0678f7fb47fbbc2e6965c3310b4a46ce3a80f584d12029155bd14807fada38ce&smart=true&width=1920&height=1080",
+   "date": "2026-11-28T03:44:59+00:00"
   },
   {
    "source": "infobae",
-   "title": "Unas 400 personas rescatadas en zonas inundadas de la ciudad peruana de Piura por El Niño",
-   "link": "https://www.infobae.com/america/agencias/2026/11/28/unas-400-personas-rescatadas-en-zonas-inundadas-de-la-ciudad-peruana-de-piura-por-el-nino/",
-   "summary": "",
-   "image": null,
-   "date": "2026-11-28T02:45:41+00:00"
-  },
-  {
-   "source": "infobae",
-   "title": "2-2. Liverpool sella el boleto a la final y luchará por la Liga Uruguaya con Peñarol",
-   "link": "https://www.infobae.com/espana/agencias/2026/11/28/2-2-liverpool-sella-el-boleto-a-la-final-y-luchara-por-la-liga-uruguaya-con-penarol/",
-   "summary": "",
-   "image": null,
-   "date": "2026-11-28T02:45:24+00:00"
-  },
-  {
-   "source": "infobae",
-   "title": "Canelo Álvarez y Salma Hayek se unen para contar la historia de un boxeador de Tepito: de qué trata ‘Para los contrincantes’",
-   "link": "https://www.infobae.com/mexico/2026/11/27/canelo-alvarez-y-salma-hayek-se-unen-para-contar-la-historia-de-un-boxeador-de-tepito-de-que-trata-para-los-contrincantes/",
-   "summary": "La producción de Federico Luis ya triunfó en Cannes y sigue a Damián, niño de 11 años que se enfrenta a las expectativas familiares y emocionales del cuadrilátero",
-   "image": "https://www.infobae.com/resizer/v2/XJHFRTBH3ZAIRAM7BQQNBTWYGE.png?auth=277436fc7bfed57169217ce5c16425e583db9865d029e6d7bd226f936755023c&smart=true&width=1920&height=1080",
-   "date": "2026-11-28T02:44:09+00:00"
-  },
-  {
-   "source": "infobae",
-   "title": "El 79 % de mujeres colombianas en Cabify tiene a la plataforma como fuente principal de ingresos",
-   "link": "https://www.infobae.com/tecno/2026/11/28/el-79-de-mujeres-colombianas-en-cabify-tiene-a-la-plataforma-como-fuente-principal-de-ingresos/",
-   "summary": "La flexibilidad de horarios fue la principal motivación para el 50% de las mujeres que comenzaron a conducir",
-   "image": "https://www.infobae.com/resizer/v2/VVHS3PUVZNFGBLCSSTOVBWCN2A.png?auth=9d507983f148b03c0ad2d004956165bfd5be31b7fa8f3f8baea1b29a757adf1d&smart=true&width=1920&height=1080",
-   "date": "2026-11-28T02:43:19+00:00"
+   "title": "El Inter Miami de Lionel Messi perdió contra Columbus Crew y quedó eliminado en los playoffs de la MLS",
+   "link": "https://www.infobae.com/deportes/2026/11/27/el-inter-miami-de-lionel-messi-debera-ganar-ante-columbus-crew-para-evitar-la-eliminacion-en-la-mls-hora-tv-y-formaciones/",
+   "summary": "El equipo del Kily González cayó 1-0 por un gol de Santiago Rodríguez a los 91 minutos y ya no tiene chances de ejercer la defensa de la corona",
+   "image": "https://www.infobae.com/resizer/v2/2WKRWEUXLBH2NKWYZJBCFJOSKM.jpg?auth=9229f494872e7abeffa75d847fd8d53620b1df16f0246b0bc4c35b31d4d84f43&smart=true&width=3836&height=2158",
+   "date": "2026-11-28T03:44:12+00:00"
   }
  ]
 }
